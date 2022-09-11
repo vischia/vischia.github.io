@@ -1,8 +1,13 @@
 ---
 layout: work
+title: Teaching
+slug: /teaching
+
 ---
 
+- **2022/2023**
+  - Course on this:
 
-- 2022/2023...
-
-- 2016/2017...
+- **2016/2017**
+  - MNAF
+  - Another one
