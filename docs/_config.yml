@@ -29,7 +29,7 @@ twitter_username: pietrovischia
 github_username:  vischia
 
 # Build settings
-theme: minima
+# theme: minima
 # bay_jekyll_theme
 remote_theme: vischia/bay
 plugins:
@@ -41,8 +41,9 @@ header:
         - name: Home
           slug: /
         - name: Research
-        - name: Publications
         - name: Teaching
+        - name: Publications
+        - name: Talks
 
 footer:
     show_powered_by: true
