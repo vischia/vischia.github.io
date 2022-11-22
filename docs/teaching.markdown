@@ -1,8 +1,6 @@
 ---
 layout: work
-title: Teaching
 slug: /teaching
-
 ---
 
 - **2022/2023**
