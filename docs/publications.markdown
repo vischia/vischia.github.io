@@ -1,9 +1,11 @@
 ---
-layout: work
+layout: default
 slug: /publications
 ---
 
-## Publications
+# Publications
+
+(*details coming soon*)
 
 ### Selected publications
 

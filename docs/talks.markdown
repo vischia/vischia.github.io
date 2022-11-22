@@ -1,6 +1,11 @@
 ---
-layout: work
+layout: default
+slug: /talks
 ---
+
+# Talks
+
+(*details coming soon*)
 
 - Talk 1
 - Talk 2
