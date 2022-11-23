@@ -5,12 +5,15 @@ slug: /teaching
 
 # Teaching
 
+## This academic year
+
 - **2022/2023** 
   - ...
   - Third Intensive Course on Statistics for HEP (20h) for Belgian PhD and postdocs (3 ECTS credits for the UCLouvain doctoral school),  Université catholique de Louvain (in English)
   - Guest lecture (1.5h) on "Automatic Differentiation" for the "PHYS-570-AI" masters' course, Purdue University (in English)
-  - ... (LIP Lisboa)
-  
+
+## Past academic years
+
 - **2021/2022** 
   - Guest lecture (4h) on Statistical Methods for Data Analysis, within the IDPASC Course on Physics at the LHC, LIP Lisboa (in English)
   - Third Intensive Course on Statistics for HEP (20h) for international PhD and postdocs (3 ECTS credits for the UCLouvain doctoral school),  Université catholique de Louvain (hybrid attendance, in English)
