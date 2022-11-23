@@ -14,7 +14,8 @@ slug: /teaching
 
 ## Past academic years
 
-- **2021/2022** 
+- **2021/2022**
+  - Course on Experimental Methods in Particle Physics, "LPHYS2233" (<!--10h-->part on Statistics for Data Analysis), Université catholique de Louvain (in English)
   - Two guest lectures <!--(4h)--> on Statistical Methods for Data Analysis, within the IDPASC Course on Physics at the LHC, LIP Lisboa (in English)
   - Third Intensive Course on Statistics for HEP <!--(20h)--> for international PhD and postdocs (3 ECTS credits for the UCLouvain doctoral school),  Université catholique de Louvain (hybrid attendance, in English)
   - Course on Informatics and Numerical Methods in Python, "LPHYS1201" <!--(45h)-->, Université catholique de Louvain (in French)
