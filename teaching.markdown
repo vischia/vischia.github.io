@@ -9,7 +9,7 @@ slug: /teaching
 
 - **2022/2023** 
   - ...
-  - Fourth Intensive Course on Statistics for HEP (20h) for Belgian PhD and postdocs (3 ECTS credits for the UCLouvain doctoral school),  Université catholique de Louvain (in English)
+  - Fourth Intensive Course on Statistics for HEP <!--(20h)--> for Belgian PhD and postdocs (3 ECTS credits for the UCLouvain doctoral school),  Université catholique de Louvain (in English)
   - Guest lecture (1.5h) on "Automatic Differentiation" for the "PHYS-570-AI" masters' course, Purdue University (in English)
 
 ## Past academic years
