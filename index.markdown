@@ -25,6 +25,7 @@ For the NeuroMODE part of my project, I am currently building my own research gr
 
 I may have smaller projects to offer, suitable to interested students who want to acquire some experience or try out research work without (yet?) committing to a bachelor, master's, or PhD thesis. Again, if you are interested please write me an email at the address below.
 
+For the CMS part of my project, I joined the excellent [UniOviHEP-ICTEA CMS group](https://www.hep.uniovi.es/).
 
 ### Current students/postdocs
 
