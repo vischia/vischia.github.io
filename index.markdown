@@ -31,8 +31,8 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 ### Current students/postdocs
 
-- Mariam Safieldin (American University of Beirut), internship (UCLouvain/UniOvi, funded by UCLouvain's muon tomography group)
-- Adrián Fernández Alonso, bachelor thesis (UniOvi)
+- 2023.03-present: Adrián Fernández Alonso, bachelor thesis (UniOvi)
+- 2023.01-present: Mariam Safieldin (American University of Beirut), internship (UCLouvain/UniOvi, funded by UCLouvain's muon tomography group)
 
 ### Alumni
 
