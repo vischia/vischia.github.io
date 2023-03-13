@@ -25,7 +25,7 @@ For CMS activities, I joined the excellent [UniOviHEP-ICTEA CMS group](https://w
 
 # Research Group
 
-NeuroMODE (my main project): I am currently building my own research group. If you would like to work with me, either at the bachelor, master's, PhD, or postdoc level, please write me an email at the address below.
+NeuroModelling (my main project): I am currently building my own research group. If you would like to work with me, either at the bachelor, master's, PhD, or postdoc level, please write me an email at the address below.
 
 I may have smaller projects to offer, suitable to interested students who want to acquire some experience or try out research work without (yet?) committing to a bachelor, master's, or PhD thesis. Again, if you are interested please write me an email at the address below.
 
