@@ -9,6 +9,7 @@ slug: /teaching
 
 - **2023/2024**
   - Course on Data Analysis in Modern Physics, Universidad de Oviedo (in Spanish)
+  - Course on Numerical Methods and their Application to Physics, "MNAF" <!--(44h)-->, Universidad de Oviedo (in Spanish)
 
 ## This academic year
 
