@@ -31,8 +31,9 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 ### Current students/postdocs
 
-- 2023.03-present: Adrián Fernández Alonso, bachelor thesis (UniOvi)
-- 2023.01-present: Mariam Safieldin (American University of Beirut), internship (UCLouvain/UniOvi, cosupervised and funded by UCLouvain's muon tomography group)
+- 2023.06-present: Sadhana Verma, PhD thesis: Off-Shell Higgs to WW production (IIT Madras)
+- 2023.03-present: Adrián Fernández Alonso, bachelor thesis: Optimization of a muon tomography experiment for border control (UniOvi)
+- 2023.01-present: Mariam Safieldin (American University of Beirut), internship: Development of an Expectation Maximization Algorithm for muon tomography detector optimization (UCLouvain/UniOvi, cosupervised and funded by UCLouvain's muon tomography group)
 
 ### Alumni
 
