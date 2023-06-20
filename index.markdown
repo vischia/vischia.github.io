@@ -31,7 +31,7 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 ### Current students/postdocs
 
-- 2023.06-present: **Sadhana Verma**, PhD thesis: *"Off-Shell Higgs to WW production"* (IIT Madras)
+- 2023.06-present: **Sadhana Verma**, PhD thesis: *"Off-Shell Higgs to WW production"* (IIT Madras, co-supervised with [Arul Lakshminarayan](https://physics.iitm.ac.in/~arul/))
 - 2023.03-present: **Adrián Fernández Alonso**, bachelor thesis: *"Optimization of a muon tomography experiment for border control"* (UniOvi)
 
 ### Alumni
