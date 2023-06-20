@@ -13,9 +13,9 @@ My research focuses on the exploration of **high-dimensional spaces via gradient
 
 **I co-founded and am part of the steering committee of the [MODE Collaboration](https://mode-collaboration.github.io/)**, where we focus on experiment design powered by machine-learning-based optimization.
 
-I also **apply machine learning algorithms to LHC data**, within the [CMS Collaboration](https://cms.cern/collaboration), to study the associated production of the Higgs boson with a top quark pair (ttH) in final states with many leptons, the properties of the associated production of a W and a Z boson, and the search production of a pair of Higgs boson.
-
 Within ICTEA, I aim at **bridging and promoting cross-contamination** between different disciplines by the development and application of state-of-the-art and novel **artificial intelligence techniques**.
+
+I also **apply machine learning algorithms to LHC data**, within the [CMS Collaboration](https://cms.cern/collaboration), to study the associated production of the Higgs boson with a top quark pair (ttH) in final states with many leptons, the properties of the associated production of a W and a Z boson, and the search production of a pair of Higgs boson.
 
 For what concerns my activities in the CMS Collaboration, I joined the excellent [UniOviHEP-ICTEA CMS group](https://www.hep.uniovi.es/).
 
