@@ -17,9 +17,10 @@ I also **apply machine learning algorithms to LHC data**, within the [CMS Collab
 
 Within ICTEA, I aim at **bridging and promoting cross-contamination** between different disciplines by the development and application of state-of-the-art and novel **artificial intelligence techniques**.
 
+For what concerns my activities in the CMS Collaboration, I joined the excellent [UniOviHEP-ICTEA CMS group](https://www.hep.uniovi.es/).
+
 My CMS-related responsibilities include being a **coordinator of the CERN IML** (Interexperimental Machine Learning) Working Group, member of the **CMS Statistics Committee** (an advisory committee on topics concerning statistics), plus other responsibilities (e.g. HWW convener) within the CMS Collaboration.
 
-For CMS activities, I joined the excellent [UniOviHEP-ICTEA CMS group](https://www.hep.uniovi.es/).
 
 ***
 
