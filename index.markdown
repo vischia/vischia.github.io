@@ -17,14 +17,13 @@ Within ICTEA, I aim at **bridging and promoting cross-contamination** between di
 
 I also **apply machine learning algorithms to LHC data**, within the [CMS Collaboration](https://cms.cern/collaboration), to study the associated production of the Higgs boson with a top quark pair (ttH) in final states with many leptons, the properties of the associated production of a W and a Z boson, and the search production of a pair of Higgs boson.
 
-For what concerns my activities in the CMS Collaboration, I joined the excellent [UniOviHEP-ICTEA CMS group](https://www.hep.uniovi.es/).
-
 My CMS-related responsibilities include being a **coordinator of the CERN IML** (Interexperimental Machine Learning) Working Group, member of the **CMS Statistics Committee** (an advisory committee on topics concerning statistics), plus other responsibilities (e.g. HWW convener) within the CMS Collaboration.
 
+For what concerns my activities in the CMS Collaboration, I joined the excellent [UniOviHEP-ICTEA CMS group](https://www.hep.uniovi.es/).
 
 ***
 
-# Research Group
+# My Research Group
 
 NeuroModelling (my main project): I am currently building my own research group. If you would like to work with me, either at the bachelor, master's, PhD, or postdoc level, please write me an email at the address below.
 
