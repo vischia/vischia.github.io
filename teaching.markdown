@@ -7,6 +7,11 @@ slug: /teaching
 
 ## Next academic year
 
+- **2024/2025**
+  - coming soon
+
+## This academic year
+
 - **2023/2024**
   - Course on Machine Learning, Data Science School, IGFAE, Universidad de Santiago de Compostela <!--several hours-->
   - Tutorial on Machine Learning, International Conference on New Frontiers in Physics, Kolumbari, Crete <!--(1h)-->
@@ -14,16 +19,13 @@ slug: /teaching
   - Course on Data Analysis in Modern Physics, "ADFM", Universidad de Oviedo (in Spanish) <!--(45h)-->
   - Course on Numerical Methods and their Application to Physics, "MNAF" <!--(44h)-->, Universidad de Oviedo (in Spanish)
 
-## This academic year
+## Past academic years
 
 - **2022/2023** 
   - Course on Particle Physics in the Energy Frontier (classes on event generators), Universidad de Oviedo (in Spanish) <!--(6h)-->
   - Two guest lectures <!--(4h)--> on Statistical Methods for Data Analysis, within the IDPASC Course on Physics at the LHC, LIP Lisboa (in English)
   - Fourth Intensive Course on Statistics for HEP <!--(20h)--> for Belgian PhD and postdocs (3 ECTS credits for the UCLouvain doctoral school),  Université catholique de Louvain (in English)
   - Guest lecture <!--(1.5h)--> on "Automatic Differentiation" for the "PHYS-570-AI" masters' course, Purdue University (in English)
-
-
-## Past academic years
 
 - **2021/2022**
   - Course on Experimental Methods in Particle Physics, "LPHYS2233" (<!--10h-->part on Statistics for Data Analysis), Université catholique de Louvain (in English)
