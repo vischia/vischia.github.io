@@ -7,6 +7,7 @@ slug: /talks
 
 ## International conferences
 
+- 2023-07-03: **"Optimizing experiment design with machine learning"**, IGFAE, Santiago de Compostela, Spain;
 - 13/06/2023: (Invited) **"TomOpt: Optimize a Muon Tomography Experiment with Differentiable Programming"**, MIAPbP workshop on Differentiable and Probabilistic Programming for Fundamental Physics, TUMunich, Germany;
 - 25/05/2023: (Invited, parallel session) **"Machine Learning and Differentiable Programming for Statistics at the LHC"**, LHCP 2023, Belgrado, Serbia;
 - 09/11/2022: (Invited, plenary session) **"Artificial Intelligence for Fundamental Physics"**, 7th USERN Congress, Muscat, Oman;
