@@ -8,8 +8,8 @@ slug: /teaching
 ## Next academic year
 
 - **2023/2024**
-  - Machine Learning (lectures and tutorials), Data Science School, IGFAE, Universidad de Santiago de Compostela <!--several hours-->
-  - Machine Learning tutorial, International Conference on New Frontiers in Physics, Kolumbari, Crete <!--(1h)-->
+  - Course on Machine Learning (lectures and tutorials), Data Science School, IGFAE, Universidad de Santiago de Compostela <!--several hours-->
+  - Tutorial on Machine Learning, International Conference on New Frontiers in Physics, Kolumbari, Crete <!--(1h)-->
   - Lecture on Quantum Machine Learning, Universidad de Cantabria (in Spanish) <!--(2h)-->
   - Course on Data Analysis in Modern Physics, Universidad de Oviedo (in Spanish) <!--(45h)-->
   - Course on Numerical Methods and their Application to Physics, "MNAF" <!--(44h)-->, Universidad de Oviedo (in Spanish)
