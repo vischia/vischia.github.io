@@ -5,11 +5,17 @@ slug: /talks
 
 # Talks
 
-## International conferences
+## Latest (not by category)
 
-- 2023-07-03: **"Optimizing experiment design with machine learning"**, IGFAE, Santiago de Compostela, Spain;
+- 03/07/2023: **"Optimizing experiment design with machine learning"**, IGFAE, Santiago de Compostela, Spain;
 - 13/06/2023: (Invited) **"TomOpt: Optimize a Muon Tomography Experiment with Differentiable Programming"**, MIAPbP workshop on Differentiable and Probabilistic Programming for Fundamental Physics, TUMunich, Germany;
 - 25/05/2023: (Invited, parallel session) **"Machine Learning and Differentiable Programming for Statistics at the LHC"**, LHCP 2023, Belgrado, Serbia;
+- 10/05/2023: **"Machine Learning for Inference"**, 7th Red LHC, Madrid, Spain;
+- 20/04/2023: **"Neuronas: del pez eléctrico al diseño de los experimentos del futuro con inteligencia artificial"**, Seminarios ICTEA (welcome as new senior researcher), Universidad de Oviedo, Spain;
+
+
+## International conferences
+
 - 09/11/2022: (Invited, plenary session) **"Artificial Intelligence for Fundamental Physics"**, 7th USERN Congress, Muscat, Oman;
 - 07/09/2022: (Parallel session) **"Differentiable Programming for Experimental Design"**, 11th ICNFP, Kolymbari, Greece;
 - 10/08/2022: (Invited, plenary session) **"Mathematical and Algorithmic Aspects of Gradient-descent-based Optimization"**, Hammers and Nails 2022, Weizmann Institute, Rehovot, Israel;
@@ -42,7 +48,6 @@ slug: /talks
 
 ## Seminars
 
-- 20/04/2023: **"Neuronas: del pez eléctrico al diseño de los experimentos del futuro con inteligencia artificial"**, Seminarios ICTEA (welcome as new senior researcher), Universidad de Oviedo, Spain;
 - 31/03/2023: (Invited) **"Optimizing Experiment Design with Machine Learning"**, STAMPS seminars, Carnegie Mellon University, Pittsburgh, USA;
 - 30/09/2022: (Invited) **"Differentiable Programming for Experiment Design"**, Montefiore Institute Seminars, Université de Liège, Liège, Belgium;
 - 12/09/2022: (Invited, interview for tenure track position in machine learning) **"A mathematical crowbar: how we use statistics and machine learning to improve our results and our experiments"**, HEPHY, Vienna (cancelled, I accepted the Ramón y Cajal offer)
@@ -59,7 +64,6 @@ slug: /talks
 
 ## National conferences and other international workshops
 
-- 10/05/2023: **"Machine Learning for Inference"**, 7th Red LHC, Madrid, Spain;
 - 05/05/2022: **"Expression of Interest 3: Machine-Learning Optimized Design of Experiments"**, 2nd Joint ECFA-NuPECC-APPEC Symposium, Madrid, Spain;
 - 20/05/2019: **"WZ Inclusive and Differential Cross Section, and Search for Anomalous Triple Gauge Boson Couplings"**, Working Package 2 of the EOS BEh Network, Antwerpen, Belgium;
 - 01/06/2018: **"Review of the Experience with ATLAS+CMS combinations"**, Higgs Toppings Workshop - Probing Top-Higgs Interactions at the LHC, Benasque, Spain;
