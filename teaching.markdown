@@ -21,7 +21,7 @@ slug: /teaching
 ## Past academic years
 
 - **2022/2023** 
-  - Tutorial on Machine Learning, International Conference on New Frontiers in Physics, Kolumbari, Crete <!--(1h)-->
+  - Tutorial on Machine Learning, XII International Conference on New Frontiers in Physics, Kolumbari, Crete <!--(1h)-->
   - Course on Particle Physics in the Energy Frontier (classes on event generators), Universidad de Oviedo (in Spanish) <!--(6h)-->
   - Two guest lectures <!--(4h)--> on Statistical Methods for Data Analysis, within the IDPASC Course on Physics at the LHC, LIP Lisboa (in English)
   - Fourth Intensive Course on Statistics for HEP <!--(20h)--> for Belgian PhD and postdocs (3 ECTS credits for the UCLouvain doctoral school),  Université catholique de Louvain (in English)
