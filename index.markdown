@@ -7,7 +7,7 @@ profile_picture:
 
 # Who am I
 
-I am a **Ramón y Cajal senior researcher** at the Universidad de Oviedo and [ICTEA](https://ictea.uniovi.es/). Previously I have been a postdoc at Université catholique de Louvain (Belgium, IISN postdoc and then FNRS chargé de recherche, 2018-2022), Universidad de Oviedo (2016-2018), and I got my PhD from Instituto Superior Técnico (Lisboa, Portugal) in 2016. I got my bachelor and master's degrees from Università degli Studi di Padova (Italy).
+I am a **Ramón y Cajal senior researcher** at the Universidad de Oviedo and [ICTEA](https://ictea.uniovi.es/), and Adjunct Professor at IITM. Previously I have been a postdoc at Université catholique de Louvain (Belgium, IISN postdoc and then FNRS chargé de recherche, 2018-2022), Universidad de Oviedo (2016-2018), and I got my PhD from Instituto Superior Técnico (Lisboa, Portugal) in 2016. I got my bachelor and master's degrees from Università degli Studi di Padova (Italy).
 
 My research focuses on the exploration of **high-dimensional spaces via gradient descent**, eventually powered by **quantum algorithms**, and on the extension of machine learning methods to **realistic neurons** with **spiking networks**, to be then implemented in **neuromorphic hardware devices**. I have created my research group in Universidad of Oviedo and ICTEA, focussed on this main research avenue.
 
