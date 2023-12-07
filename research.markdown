@@ -24,7 +24,7 @@ In the [MODE Collaboration](https://mode-collaboration.github.io/) we are studyi
 
 ## CMS
 
-*(Description coming at some point, not a priority)*
+*(Description coming at some point)*
 
   - Higgs couplings in CMS
   - Machine learning applications in the CMS trigger system
