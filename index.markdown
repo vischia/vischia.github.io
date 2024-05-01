@@ -50,7 +50,7 @@ I may have smaller projects to offer, suitable to interested students who want t
 - 2023.12-present: **Santiago Vila Domínguez**, BSc in Physics: *"Study of CP Violation in High-Energy Physics Collisions..."* (UniOvi, with Sergio Sánchez Cruz from UZH)
 - 2023.12-present: **Samuel Álvarez Lueje**, BSc in Physics: *"Artificial-Intelligence Based Optimization of a Muon Tomography System for the Detection of Smuggled Material in Containers"* (UniOvi, with Maxime Lagrange from UCLouvain)
 - 2023.12-present: **Pablo Fernández Valdés**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández)
-- 2023.12-present: **Nicolás Lozano García**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández)
+<!-- - 2023.12-present: **Nicolás Lozano García**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández) -->
 - 2023.03-present: **Adrián Fernández Alonso**, BSc in Informatics: *"Optimization of a Muon Tomography Experiment for Border Control"* (UniOvi, with María José Pérez Fernández)
 
 ### Alumni
