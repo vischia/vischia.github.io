@@ -17,7 +17,7 @@ Within ICTEA, I aim at **bridging and promoting cross-contamination** between di
 
 I also **apply machine learning algorithms to LHC data**, within the [CMS Collaboration](https://cms.cern/collaboration), to study the associated production of the Higgs boson with a top quark pair (ttH) in final states with many leptons, the properties of the associated production of a W and a Z boson, and the search production of a pair of Higgs boson.
 
-My CMS-related responsibilities include being a **coordinator of the CERN IML** (Interexperimental Machine Learning) Working Group, member of the **CMS Statistics Committee** (an advisory committee on topics concerning statistics), plus other responsibilities (e.g. HWW convener) within the CMS Collaboration.
+My CMS-related responsibilities include being the **coordinator of the Machine Learning Group of the CMS Experiment for the years 2024-2026**, member of the **CMS Statistics Committee** (an advisory committee on topics concerning statistics), plus other responsibilities (e.g. HWW convener) within the CMS Collaboration. Until 2024.09, I have been the**coordinator of the CERN IML** (Interexperimental Machine Learning) Working Group.
 
 For what concerns my activities in the CMS Collaboration, I joined the excellent [UniOviHEP-ICTEA CMS group](https://www.hep.uniovi.es/).
 
@@ -41,18 +41,25 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 ### Current Master students
 
-- 2023.12-present: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal)
+- 2023.12-2024.07: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
  
 ### Current Bachelor students
 
-- 2023.12-present: **Pablo Canteli Morales**, BSc in Physics: *"Artificial-Intelligence Based Study of Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
-- 2023-12-present: **Manuel Uría García**, BSc in Physics: *"Sentiment Analysis with Quantum Natural Language Processing"* (UniOvi, with José Manuel Uría González from UriaXait s.l.)
-- 2023.12-present: **Santiago Vila Domínguez**, BSc in Physics: *"Study of CP Violation in High-Energy Physics Collisions..."* (UniOvi, with Sergio Sánchez Cruz from UZH)
-- 2023.12-present: **Samuel Álvarez Lueje**, BSc in Physics: *"Artificial-Intelligence Based Optimization of a Muon Tomography System for the Detection of Smuggled Material in Containers"* (UniOvi, with Maxime Lagrange from UCLouvain)
-- 2023.12-present: **Pablo Fernández Valdés**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández)
-<!-- - 2023.12-present: **Nicolás Lozano García**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández) -->
-- 2023.03-present: **Adrián Fernández Alonso**, BSc in Informatics: *"Optimization of a Muon Tomography Experiment for Border Control"* (UniOvi, with María José Pérez Fernández)
+- 2024.09-present: **Marta de la Puente Santos**, BSc in Physics, *...* (UniOvi).
+- 2024.09-present: **Paula Granda Gutiérrez**, Double BSc in Mathematics and Physics, *Optimization of the response of Hodgkins-Huxley neuronal simulators with Automatic Differentiation* (UniOvi).
+- 2024.09-present: **Jimena Gómez Fernández**, BSc in Physics: *Artificial-Intelligence Based Study of Advanced Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.).
+- 2023.03-present: **Adrián Fernández Alonso**, BSc in Informatics: *"Optimization of a Muon Tomography Experiment for Border Control"* (UniOvi, with María José Pérez Fernández).
 
+### Current interns
+
+- 2024.09-present: **Pablo Canteli Morales** (Universidad de Salamanca), external collaboration (BSc alumni)
+       
 ### Alumni
 
+- 2023.12-2024.07: **Pablo Canteli Morales**, BSc in Physics: *"Artificial-Intelligence Based Study of Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
+- 2023.12-2024.07: **Samuel Álvarez Lueje**, BSc in Physics: *"Artificial-Intelligence Based Optimization of a Muon Tomography System for the Detection of Smuggled Material in Containers"* (UniOvi, with Maxime Lagrange from UCLouvain).
+- 2023.12-2024.07: **Pablo Fernández Valdés**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández).
+- 2023.12-2024.07: **Manuel Uría García**, BSc in Physics: *"Sentiment Analysis with Quantum Natural Language Processing"* (UniOvi, with José Manuel Uría González from UriaXait s.l.).
+- 2023.12-2024.07: **Santiago Vila Domínguez**, BSc in Physics: *"Study of CP Violation in High-Energy Physics Collisions..."* (UniOvi, with Sergio Sánchez Cruz from UZH).
+<!-- - 2023.12-present: **Nicolás Lozano García**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández) -->
 - 2023.01-2023.04: **Mariam Safieldin** (American University of Beirut), internship: "*Development of an Expectation Maximization Algorithm for muon tomography detector optimization"* (UCLouvain/UniOvi, cosupervised and funded by UCLouvain's muon tomography group)
