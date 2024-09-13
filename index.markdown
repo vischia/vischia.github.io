@@ -37,12 +37,11 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 - If you are interested in applying to Spanish funding agencies for funding for a PhD with me, please contact me (email address at the bottom of the page).
 
+- 2024.09-present: **María Pereira Martínez**, PhD thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 - 2023.06-present: **Sadhana Verma**, PhD thesis in Physics: *"Off-Shell Higgs to WW production"* (IIT Madras, co-supervised with [Arul Lakshminarayan](https://physics.iitm.ac.in/~arul/))
 
 ### Current Master students
 
-- 2023.12-2024.07: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
- 
 ### Current Bachelor students
 
 - 2024.09-present: **Marta de la Puente Santos**, BSc in Physics, *...* (UniOvi).
@@ -56,10 +55,14 @@ I may have smaller projects to offer, suitable to interested students who want t
        
 ### Alumni
 
+Master
+- 2023.12-2024.07: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
+Bachelor
 - 2023.12-2024.07: **Pablo Canteli Morales**, BSc in Physics: *"Artificial-Intelligence Based Study of Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
 - 2023.12-2024.07: **Samuel Álvarez Lueje**, BSc in Physics: *"Artificial-Intelligence Based Optimization of a Muon Tomography System for the Detection of Smuggled Material in Containers"* (UniOvi, with Maxime Lagrange from UCLouvain).
 - 2023.12-2024.07: **Pablo Fernández Valdés**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández).
 - 2023.12-2024.07: **Manuel Uría García**, BSc in Physics: *"Sentiment Analysis with Quantum Natural Language Processing"* (UniOvi, with José Manuel Uría González from UriaXait s.l.).
 - 2023.12-2024.07: **Santiago Vila Domínguez**, BSc in Physics: *"Study of CP Violation in High-Energy Physics Collisions..."* (UniOvi, with Sergio Sánchez Cruz from UZH).
 <!-- - 2023.12-present: **Nicolás Lozano García**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández) -->
+Internships
 - 2023.01-2023.04: **Mariam Safieldin** (American University of Beirut), internship: "*Development of an Expectation Maximization Algorithm for muon tomography detector optimization"* (UCLouvain/UniOvi, cosupervised and funded by UCLouvain's muon tomography group)
