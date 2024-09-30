@@ -60,6 +60,7 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 Master
 - 2023.12-2024.07: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
+
 Bachelor
 - 2023.12-2024.07: **Pablo Canteli Morales**, BSc in Physics: *"Artificial-Intelligence Based Study of Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
 - 2023.12-2024.07: **Samuel Álvarez Lueje**, BSc in Physics: *"Artificial-Intelligence Based Optimization of a Muon Tomography System for the Detection of Smuggled Material in Containers"* (UniOvi, with Maxime Lagrange from UCLouvain).
