@@ -11,7 +11,7 @@ I am a **Ramón y Cajal senior researcher** at the Universidad de Oviedo and [IC
 
 My research focuses on the exploration of **high-dimensional spaces via gradient descent**, eventually powered by **quantum algorithms**, and on the extension of machine learning methods to **realistic neurons** with **spiking networks**, to be then implemented in **neuromorphic hardware devices**. I have created my research group in Universidad of Oviedo and ICTEA, focussed on this main research avenue.
 
-**I co-founded and am part of the steering committee of the [MODE Collaboration](https://mode-collaboration.github.io/)**, where we focus on experiment design powered by machine-learning-based optimization.
+**I co-founded and am the coordinator of the [MODE Collaboration](https://mode-collaboration.github.io/)**, where we focus on experiment design powered by machine-learning-based optimization.
 
 Within ICTEA, I aim at **bridging and promoting cross-contamination** between different disciplines by the development and application of state-of-the-art and novel **artificial intelligence techniques**.
 
@@ -41,6 +41,8 @@ I may have smaller projects to offer, suitable to interested students who want t
 - 2023.06-present: **Sadhana Verma**, PhD thesis in Physics: *"Off-Shell Higgs to WW production"* (IIT Madras, co-supervised with [Arul Lakshminarayan](https://physics.iitm.ac.in/~arul/))
 
 ### Current Master students
+
+- 2024.11-present: **David Beltrán Antolín**, MSc in Data Science, *"Study of pollution and its relation with cardiorespiratory diseases"* (UniCan).
 
 ### Current Bachelor students
 
