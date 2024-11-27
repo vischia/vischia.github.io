@@ -37,6 +37,7 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 - If you are interested in applying to Spanish funding agencies for funding for a PhD with me, please contact me (email address at the bottom of the page).
 
+- 2024-09-present: **David Ortega Martell**, PhD thesis in Physics: *"Studies of ttH production with Run 3 data in CMS" (UniOvi, co-supervised with Javier Cuevas)
 - 2024.09-present: **María Pereira Martínez**, PhD thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 - 2023.06-present: **Sadhana Verma**, PhD thesis in Physics: *"Off-Shell Higgs to WW production"* (IIT Madras, co-supervised with [Arul Lakshminarayan](https://physics.iitm.ac.in/~arul/))
 
