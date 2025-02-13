@@ -44,7 +44,7 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 ### Current Master students
 
-- 2024.11-present: **David Beltrán Antolín**, MSc in Data Science, *"Study of pollution and its relation with cardiorespiratory diseases"* (UniCan).
+- 2025.01-present: **Jacopo de Piccoli**, MSc in Physics, *"Study of associated top pair and Higgs production in multilepton events at 13.6 TeV with the CMS detector"* (Università degli Studi di Padova, with Tommaso Dorigo).
 
 ### Current Bachelor students
 
