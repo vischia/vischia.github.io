@@ -48,7 +48,6 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 ### Current Bachelor students
 
-
 - 2024.09-present: **Marta de la Puente Santos**, BSc in Physics, *"Bias Reduction via Expectation Maximization in Artificial-Intelligence Based Optimization of a Muon Tomography System"* (UniOvi, with Zahraa Zaher, Université catholique de Louvain).
 - 2024.09-present: **Paula Granda Gutiérrez**, Double BSc in Physics and Mathematics, *Optimization of the response of Hodgkins-Huxley neuronal simulators with Automatic Differentiation* (UniOvi).
 - 2024.09-present: **Jimena Gómez Fernández**, BSc in Physics: *Artificial-Intelligence Based Study of Advanced Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.).
