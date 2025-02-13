@@ -74,3 +74,4 @@ Bachelor
 <!-- - 2023.12-present: **Nicolás Lozano García**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández) -->
 Internships
 - 2023.01-2023.04: **Mariam Safieldin** (American University of Beirut), internship: "*Development of an Expectation Maximization Algorithm for muon tomography detector optimization"* (UCLouvain/UniOvi, cosupervised and funded by UCLouvain's muon tomography group)
+
