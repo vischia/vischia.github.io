@@ -5,17 +5,33 @@ slug: /talks
 
 # Talks
 
-## Latest (not by category)
+## Latest highlights (not by category)
 
-- 03/07/2023: **"Optimizing experiment design with machine learning"**, IGFAE, Santiago de Compostela, Spain;
-- 13/06/2023: (Invited) **"TomOpt: Optimize a Muon Tomography Experiment with Differentiable Programming"**, MIAPbP workshop on Differentiable and Probabilistic Programming for Fundamental Physics, TUMunich, Germany;
-- 25/05/2023: (Invited, parallel session) **"Machine Learning and Differentiable Programming for Statistics at the LHC"**, LHCP 2023, Belgrado, Serbia;
-- 10/05/2023: **"Machine Learning for Inference"**, 7th Red LHC, Madrid, Spain;
-- 20/04/2023: **"Neuronas: del pez eléctrico al diseño de los experimentos del futuro con inteligencia artificial"**, Seminarios ICTEA (welcome as new senior researcher), Universidad de Oviedo, Spain;
-
+- 2025-02-25: (Invited lecture) **"Automatic Differentiation"**, lecture at the course "Programming for Scientific Computing" at Lulea Technical University, Sweden
+- 2025-02-25: (Invited seminar) **"Differentiable Programming for the Frontiers of Computation"**, seminar at Lulea Technical University, Sweden
+- 2025-02-20: (Invited lectures) **"Differentiable Programming"**, series of lectures within the AI4Physics course at Uppsala Universitet, Sweden
+- 2025-02-20: (Invited seminar) **"Differentiable Programming for the Frontiers of Computation"**, seminar at Uppsala Universitet, Sweden
+- 2024-12-17: (Invited, plenary session) **"Plug the physics into the AI: Digital twins, inductive bias, and the case of enforcing symmetries in neural networks"**, invited talk at NPTwins 2024, Genova, Italy
+- 2024-10-04: (Plenary), **"Differentiable Programming for the Frontiers of Computation"**, talk at the 2nd Computation Challenges (COMCHA) Workshop, A Coruña, Spain
+- 2024-10-18: (Invited lecture) **"Quantum Machine Learning"**, lecture at Máster en Ciencia de Datos, Universidad de Cantabria, Santander, Spain
+- 2024-09-04: (Plenary) Equivariant Neural Networks for Robust CP Observables, talk at ICNFP2024, Kolumbari, Crete
+- 2024-07-20: (Invited, parallel session) **"AI-Assisted Design of Experiments at the Frontiers of Computation: Methods and New Perspectives"**, ICHEP 2024, Prague, Czech Republic
+- 2024-07-05: (Invited seminar, interview for full Professorship, W3, at KIT): **"AI-assisted design of experiments at the frontiers of computation: methods and new perspectives"**, Institute of Data Processing and Electronics, KIT (Karlsruhe Istitute of Technology), Germany
+- 2024-05-21: (Invited seminar): **"AI-assisted design of experiments at the frontiers of computation: methods and new perspectives"**, ETH Zürich, Switzerland
 
 ## International conferences
 
+- 2024-11-08: (Invited, parallel session) **"Artificial Intelligence at CERN"**, seminar at USERN Congress 2024, Plovdiv, Bulgaria (remotely)
+- 2024-08-25: (Invited course) **"Machine Learning Course"**, Course within ICNFP2024, Kolumbari, Crete
+- 2024-06-13: (Invited lecture): **"Statistics"**, 15th INFN International Neutrino Summer School, Bologna, Italy (remotely)
+- 2024-01-22: (Invited, plenary session): **"Introductory Overview to Applying Machine Learning to Physics"**, Lorentz Center Workshops, Leiden, The Netherlands
+- 2023-11-22: (Invited, plenary session) **"AI-assisted design of experiments at the frontiers of computation: methods and new perspectives"**, ALPACAT Workshop, Trento, Italy
+- 2023-10-26: (Invited lecture) **"Neuromorphic computing"** , lecture in the COMCHA network school 2023, Oviedo, Spain
+- 2023-10-26: (Invited lecture) **"Automatic Differentiation"**, lecture in the COMCHA network school 2023, Oviedo, Spain
+- 2023-10-20: (Invited lecture) **"Quantum Machine Learning"**, lecture at Máster en Ciencia de Datos, Universidad de Cantabria, Santander, Spain
+- 2023-09-14: (Invited, plenary session) **"Machine-Learning Optimized Design of Experiments"**, Innovative Detector Technologies and Methods Workshop, Lisboa, Portugal
+- 13/06/2023: (Invited) **"TomOpt: Optimize a Muon Tomography Experiment with Differentiable Programming"**, MIAPbP workshop on Differentiable and Probabilistic Programming for Fundamental Physics, TUMunich, Germany;
+- 25/05/2023: (Invited, parallel session) **"Machine Learning and Differentiable Programming for Statistics at the LHC"**, LHCP 2023, Belgrado, Serbia;
 - 09/11/2022: (Invited, plenary session) **"Artificial Intelligence for Fundamental Physics"**, 7th USERN Congress, Muscat, Oman;
 - 07/09/2022: (Parallel session) **"Differentiable Programming for Experimental Design"**, 11th ICNFP, Kolymbari, Greece;
 - 10/08/2022: (Invited, plenary session) **"Mathematical and Algorithmic Aspects of Gradient-descent-based Optimization"**, Hammers and Nails 2022, Weizmann Institute, Rehovot, Israel;
@@ -48,6 +64,9 @@ slug: /talks
 
 ## Seminars
 
+- 2024-03-21: (Invited seminar): **"AI-assisted design of experiments at the frontiers of computation: methods and new perspectives"**, seminar at LIP Lisboa, Portugal
+- 03/07/2023: (Invited seminar) **"Optimizing experiment design with machine learning"**, IGFAE, Santiago de Compostela, Spain;
+- 20/04/2023: (Invited seminar) **"Neuronas: del pez eléctrico al diseño de los experimentos del futuro con inteligencia artificial"**, Seminarios ICTEA (welcome as new senior researcher), Universidad de Oviedo, Spain;
 - 31/03/2023: (Invited) **"Optimizing Experiment Design with Machine Learning"**, STAMPS seminars, Carnegie Mellon University, Pittsburgh, USA;
 - 30/09/2022: (Invited) **"Differentiable Programming for Experiment Design"**, Montefiore Institute Seminars, Université de Liège, Liège, Belgium;
 - 12/09/2022: (Invited, interview for tenure track position in machine learning) **"A mathematical crowbar: how we use statistics and machine learning to improve our results and our experiments"**, HEPHY, Vienna (cancelled, I accepted the Ramón y Cajal offer)
@@ -64,6 +83,8 @@ slug: /talks
 
 ## National conferences and other international workshops
 
+- 2024-05-07: (Plenary) **"Artificial Intelligence at CERN"**, Jornadas de ICTEA, Oviedo, Spain
+- 10/05/2023: **"Machine Learning for Inference"**, 7th Red LHC, Madrid, Spain;
 - 05/05/2022: **"Expression of Interest 3: Machine-Learning Optimized Design of Experiments"**, 2nd Joint ECFA-NuPECC-APPEC Symposium, Madrid, Spain;
 - 20/05/2019: **"WZ Inclusive and Differential Cross Section, and Search for Anomalous Triple Gauge Boson Couplings"**, Working Package 2 of the EOS BEh Network, Antwerpen, Belgium;
 - 01/06/2018: **"Review of the Experience with ATLAS+CMS combinations"**, Higgs Toppings Workshop - Probing Top-Higgs Interactions at the LHC, Benasque, Spain;
