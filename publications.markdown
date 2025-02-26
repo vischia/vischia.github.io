@@ -4,7 +4,7 @@ slug: /publications
 ---
 
 74960 citations, h-index 118 (updated 02/2025) according to the [SCOPUS page about me](https://www.scopus.com/authid/detail.uri?authorId=54973936800). 
-Full list of publications available via my [ORCID ID](https://orcid.org/0000-0002-7088-8557). You can also check by [Google Scholar page](https://scholar.google.com/citations?user=cph_-LwAAAAJ).
+Full list of publications available via my [ORCID ID](https://orcid.org/0000-0002-7088-8557). You can also check my [Google Scholar page](https://scholar.google.com/citations?user=cph_-LwAAAAJ).
 
 # Latest publication highlights
 
