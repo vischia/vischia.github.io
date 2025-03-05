@@ -8,7 +8,7 @@ Full list of publications available via my [ORCID ID](https://orcid.org/0000-000
 
 # Latest publication highlights
 
-- M. Pereira Martínez, X. Cid Vida, Pietro Vischia, "Automatic Optimization of a Parallel-Plate Avalanche Counter with Optical Readout", Particles 2025, 8(1), 26 ([10.3390/particles8010026](https://doi.org/10.3390/particles8010026), [2503.02538](https://arxiv.org/abs/2503.02538))
+- M. Pereira Martínez, X. Cid Vidal, Pietro Vischia, "Automatic Optimization of a Parallel-Plate Avalanche Counter with Optical Readout", Particles 2025, 8(1), 26 ([10.3390/particles8010026](https://doi.org/10.3390/particles8010026), [2503.02538](https://arxiv.org/abs/2503.02538))
 - P. Vischia, 2025, "AI-assisted design of experiments at the frontiers of computation: methods and new perspectives", Proceedings of Science 476, ICHEP2024, 1022 (2025) ([10.22323/1.476.1022](https://doi.org/10.22323/1.476.1022))
 - S. Sánchez Cruz, M. Kolosova, C. Ramón Álvarez, G. Petrucciani, P. Vischia, 2024, “Equivariant neural networks for robust CP observables”, Phys. Rev. D 110, 096023 ([10.1103/PhysRevD.110.096023](10.1103/PhysRevD.110.096023));
 - T. Dorigo et al. (P.V.), "Artificial Intelligence in Science and Society: The Vision of USERN", IEEE Access 2025 (13) 15993-16054, [10.1109/ACCESS.2025.3529357](https://doi.org/10.1109/ACCESS.2025.3529357)
