@@ -53,7 +53,11 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 ### Current interns
 
-- 2024.09-present: **Pablo Canteli Morales** (Universidad de Salamanca), external collaboration (BSc alumni)
+- 2025-06-present: **Gursharan Singh** (Tata Institute of Fundamental Research TIFR, Mumbai)
+- 2025-06-present: **Rukshak Kapoor** (Thapar Institute of Engineering & Technology, Patiala)
+- 2025-03-present: **Alberto Saborido Patiño** (MPI, Deutschland)
+
+    2024.09-present: **Pablo Canteli Morales** (Universidad de Salamanca), external collaboration (BSc alumni)
        
 ### Alumni
 
