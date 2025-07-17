@@ -6,6 +6,8 @@ slug: /talks
 # Talks
 
 ## Latest highlights (not by category)
+
+- 2025-07-18: (Invited plenary) **"Machine Learning Optimized Design of Experiments at the frontiers of computation: methods and new perspectives"**, invited plenary talk at ICNFP2025, Kolumbari, Crete
 - 2025-07-01: (Invited seminar) **"Differentiable Programming at the Frontiers of Computation"**, seminar at CP3, UCLouvain, Louvain-la-Neuve, Belgium
 - 2025-06-23: (Plenary+poster) **"Differentiable Programming at the Frontiers of Computation"**, talk at Newton Institute Workshop on Experiment Design, Cambridge, United Kingdom
 - 2025-06-19: (Plenary) **"Neuromorphic-Computing Based Advances in Calorimetry"**, presentation at 2nd Jornadas del ICTEA, Oviedo, Spain
