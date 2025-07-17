@@ -6,19 +6,23 @@ slug: /publications
 74960 citations, h-index 118 (updated 02/2025) according to the [SCOPUS page about me](https://www.scopus.com/authid/detail.uri?authorId=54973936800). 
 Full list of publications available via my [ORCID ID](https://orcid.org/0000-0002-7088-8557). You can also check my [Google Scholar page](https://scholar.google.com/citations?user=cph_-LwAAAAJ).
 
+# Latest preprints
+
+- Z. Zaher et al. (P.V.), "Optimization of a cosmic muon tomography scanner for cargo border control inspection", submitted to Journal of Applied Physics, ([2507.10253](https://doi.org/10.48550/arXiv.2507.10253))
+- C. A. Argüelles et al. (P.V.), "TAMBO: A Deep-Valley Neutrino Observatory", submitted to Nature Astronomy, ([2507.08070](https://doi.org/10.48550/arXiv.2507.08070))
+- S. Caron et al. (P.V.), "Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics: Insights from JENA and EuCAIF", ([2503.14192](https://doi.org/10.48550/arXiv.2503.14192))
+- K. G. Barman et al. (P.V.), "Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models", submitted to Nature physics roadmap, [2501.05382](https://doi.org/10.48550/arXiv.2501.05382)
+
+
 # Latest publication highlights
 
 - M. Pereira Martínez, X. Cid Vidal, Pietro Vischia, "Automatic Optimization of a Parallel-Plate Avalanche Counter with Optical Readout", Particles 2025, 8(1), 26 ([10.3390/particles8010026](https://doi.org/10.3390/particles8010026), [2503.02538](https://arxiv.org/abs/2503.02538))
+- E. Lupi et al. (P.V.), "Neuromorphic Readout for Hadron Calorimeters", Particles 2025, 8(2) 52 ([10.3390/particles8020052](https://doi.org/10.3390/particles8020052), [2502.12693](https://doi.org/10.48550/arXiv.2502.12693))
+- A. De Vita et al. (P.V.), "Hadron Identification Prospects With Granular Calorimeters", Particles 2025, 8(2) 58 ([10.3390/particles8020058](https://doi.org/10.3390/particles8020058) [2502.10817](https://doi.org/10.48550/arXiv.2502.10817))
+- K. Schmidt et al. (P.V.), "End-to-End Detector Optimization with Diffusion models: A Case Study in Sampling Calorimeters", Particles 2025, 8(2) 47 ([10.3390/particles8020047](https://doi.org/10.3390/particles8020047), [2502.02152](https://doi.org/10.48550/arXiv.2502.02152))
 - P. Vischia, 2025, "AI-assisted design of experiments at the frontiers of computation: methods and new perspectives", Proceedings of Science 476, ICHEP2024, 1022 (2025) ([10.22323/1.476.1022](https://doi.org/10.22323/1.476.1022))
 - S. Sánchez Cruz, M. Kolosova, C. Ramón Álvarez, G. Petrucciani, P. Vischia, 2024, “Equivariant neural networks for robust CP observables”, Phys. Rev. D 110, 096023 ([10.1103/PhysRevD.110.096023](10.1103/PhysRevD.110.096023));
 - T. Dorigo et al. (P.V.), "Artificial Intelligence in Science and Society: The Vision of USERN", IEEE Access 2025 (13) 15993-16054, [10.1109/ACCESS.2025.3529357](https://doi.org/10.1109/ACCESS.2025.3529357)
-
-# Latest preprints
-
-- E. Lupi et al. (P.V.), "Neuromorphic Readout for Hadron Calorimeters", submitted to Particles, [2502.12693](https://doi.org/10.48550/arXiv.2502.12693)
-- A. De Vita et al. (P.V.), "Hadron Identification Prospects With Granular Calorimeters", submitted to Particles, [2502.10817](https://doi.org/10.48550/arXiv.2502.10817)
-- K. Schmidt et al. (P.V.), "End-to-End Detector Optimization with Diffusion models: A Case Study in Sampling Calorimeters", submitted to Particles, [2502.02152](https://doi.org/10.48550/arXiv.2502.02152)
-- K. G. Barman et al. (P.V.), "Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models", submitted to Nature physics roadmap, [2501.05382](https://doi.org/10.48550/arXiv.2501.05382)
 
 
     

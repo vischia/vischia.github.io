@@ -8,18 +8,22 @@ slug: /teaching
 ## Next academic year
 
 - **2025/2026**
+  - Course on Applications and Treatment of Data in Technology and Physics, "ATDF", Politechnical School of Engineering of the Universidad de Oviedo (in Spanish) (to be confirmed, depending on student enrollment. Otherwise, back to MNAF!) <!--(44h)
+  - Course on Data Analysis in Modern Physics, "ADFM", Universidad de Oviedo (in Spanish) <!--(45h)-->
+  - Course on Particle Physics in the Energy Frontier (classes on event generators), Universidad de Oviedo (in Spanish) <!--(11h)-->
 
     
 ## Current academic year
 
 - **2024/2025**
+  - School on Machine Learning, XIV International Conference on New Frontiers in Physics, Kolumbari, Crete <!--(10h)-->
   - Main teacher and coorganiser of Lisbon Machine Learning For Physics School, LIP Lisboa (in English) <!-- (15h)-->
   - Two guest lectures <!--(4h)--> on Statistical Methods for Data Analysis, within the IDPASC Course on Physics at the LHC, LIP Lisboa (in English)
   - Invited lecture on Automatic Differentiation, within the course "Programming for Scientific Computing", Lulea Technical University, Sweden (in English)
   - Invited lectures on Differentiable Programming, AI4Physics course, Uppsala Universitet, Sweden (in English) <!-- (6h) -->
   - Guest lecture on Quantum Machine Learning, Master in Data Science, Universidad de Cantabria (in Spanish) <!--(2h)-->
   - Course on Data Analysis in Modern Physics, "ADFM", Universidad de Oviedo (in Spanish) <!--(45h)-->
-  - Course on Particle Physics in the Energy Frontier (classes on event generators), Universidad de Oviedo (in Spanish) <!--(6h)-->
+  - Course on Particle Physics in the Energy Frontier (classes on event generators), Universidad de Oviedo (in Spanish) <!--(11h)-->
   - Either one of these (depending on whether ADTF has enough students to be activated)
     - Course on Numerical Methods and their Application to Physics, "MNAF" <!--(44h)-->, Universidad de Oviedo (in Spanish)
     - Course on Applications and Data Treatment in Technology and Physics, "ADTF", at EPI Engineering School <!-- (44h)-->, Universidad de Oviedo (in Spanish)
@@ -28,6 +32,7 @@ slug: /teaching
 
 - **2023/2024**
   - Two guest lectures (one on Automatic Differentiation, the other on Neuromorphic Computing), at the Second COMCHA School, Oviedo, Spain (in English) <!-- (3h) -->
+  - School on Machine Learning, XIII International Conference on New Frontiers in Physics, Kolumbari, Crete <!--(10h)-->
   - Course on Machine Learning, Data Science School, IGFAE, Universidad de Santiago de Compostela <!-- (12h)-->
   - Guest lecture on Quantum Machine Learning, Master in Data Science, Universidad de Cantabria (in Spanish) <!--(2h)-->
   - Two guest lectures <!--(4h)--> on Statistical Methods for Data Analysis, within the IDPASC Course on Physics at the LHC, LIP Lisboa (in English)

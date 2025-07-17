@@ -11,7 +11,7 @@ I am a **Ramón y Cajal senior researcher** at the Universidad de Oviedo and [IC
 
 My research focuses on the exploration of **high-dimensional spaces via gradient descent**, eventually powered by **quantum algorithms**, and on the extension of machine learning methods to **realistic neurons** with **spiking networks**, to be then implemented in **neuromorphic hardware devices**. I have created my research group in Universidad of Oviedo and ICTEA, focussed on this main research avenue.
 
-**I co-founded and am the coordinator of the [MODE Collaboration](https://mode-collaboration.github.io/)**, where we focus on experiment design powered by machine-learning-based optimization.
+**I co-founded and am the coordinator of the [MODE Collaboration](https://mode-collaboration.github.io/)**, where we focus on experiment (cod)design powered by machine-learning-based optimization.
 
 Within ICTEA, I aim at **bridging and promoting cross-contamination** between different disciplines by the development and application of state-of-the-art and novel **artificial intelligence techniques**.
 
@@ -29,6 +29,18 @@ For what concerns my activities in the CMS Collaboration, I joined the excellent
 
 I may have smaller projects to offer, suitable to interested students who want to acquire some experience or try out research work without (yet?) committing to a bachelor, master's, or PhD thesis. Again, if you are interested please write me an email at the address below.
 
+
+### Current funding opportunities
+If you are interested in any of the opportunities below, in particular in the periodic (usually yearly) ones, **please contact me well in advance**: successful applications are based not only on a good supervisee-supervisor match, but also on iterations on the detail of the project (true in particular for postdoc applications).
+    
+- I can host applications to [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships): the call usually opens in May with deadline in September
+- Spanish postdoctoral *Juan de la Cierva* program: if you got your PhD between 1 January YEAR-1 and 31 December YEAR, you can apply for a 2-year postdoc position, deadline usually on February YEAR+1.
+- Several PhD (4-year positions) funding availabilities: if you expect to defend by September YEAR, you can apply to:
+  - Private bank call, deadline usually on February YEAR
+  - Regional call (*Severo Ochoa*), deadline usually on May YEAR
+  - National call (*FPU*), usually deadline in February YEAR
+ 
+    
 ### Current Postdocs
 
 - If you got your PhD between 1 January 2023 and 31 December 2024, and you are interested in a postdoc with me, please contact me a.s.a.p. using the email address at the bottom of the page. There will be a call closing on February 2025.
@@ -38,6 +50,7 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 - If you are interested in applying to Spanish funding agencies for funding for a PhD with me, please contact me (email address at the bottom of the page). In particular, there will be a call open to people who resided in Spain for 12 months in the last 36 months, closing on February 2025.
 
+- 2025.09-present: **Daniel Lanchares Álvarez**, PhD thesis in Physics: *"Machine-Learning Powered Estimation of parameters for Binary Black Hole Systems"* (co-supervised with Luigi Toffolatti Ballarin, UniOvi, and José Antonio Font, Universidad de Valencia)
 - 2024.09-present: **María Pereira Martínez**, PhD thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 - 2023.06-present: **Sadhana Verma**, PhD thesis in Physics: *"Off-Shell Higgs to WW production"* (IIT Madras, co-supervised with [Arul Lakshminarayan](https://physics.iitm.ac.in/~arul/))
 
@@ -47,15 +60,14 @@ I may have smaller projects to offer, suitable to interested students who want t
 
 ### Current Bachelor students
 
-
-- 2024.09-present: **Paula Granda Gutiérrez**, Double BSc in Physics and Mathematics, *Optimization of the response of Hodgkins-Huxley neuronal simulators with Automatic Differentiation* (UniOvi).
-- 2024.09-present: **Álvaro Sánchez Fernández**, Double BSc in Mathematics and Physics *Study of equivariant neural networks for robust CP observables* (UniOvi, with Clara Ramón Álvarez, University of Virginia).
-
+- 2025.09-present: **Raúl Iglesias Ablanedo**, Double BSc in Physics and Mathematics, *Applications of Neuromorphic Computing to High Energy Physics problems* (UniOvi)
+- 2025.09-present: **Ignacio González Álvarez**, Double BSc in Physics and Mathematics, *Equivariant Neural Networks implemented in quantum circuits* (UniOvi, with Sergio Sanchez Cruz)
+    
 ### Current interns
 
-- 2025-06-present: **Gursharan Singh** (Tata Institute of Fundamental Research TIFR, Mumbai)
-- 2025-06-present: **Rukshak Kapoor** (Thapar Institute of Engineering & Technology, Patiala)
-- 2025-03-present: **Alberto Saborido Patiño** (MPI, Deutschland)
+- 2025-06-present: **Gursharan Singh** (Tata Institute of Fundamental Research TIFR, Mumbai), *Optimization of the experimental setup of TAMBO*
+- 2025-06-present: **Rukshak Kapoor** (Thapar Institute of Engineering & Technology, Patiala), *Spiking Neural Networks and Neuromorphic Computing for Calorimetry*
+- 2025-03-present: **Alberto Saborido Patiño** (MPI, Deutschland), *Spiking Neural Networks and Neuromorphic Computing for Calorimetry*
        
 ### Alumni
 
@@ -63,7 +75,9 @@ Master
 - 2023.12-2024.07: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 
 Bachelor
-- 2024.09-2025.06t: **Marta de la Puente Santos**, BSc in Physics, *"Bias Reduction via Expectation Maximization in Artificial-Intelligence Based Optimization of a Muon Tomography System"* (UniOvi, with Zahraa Zaher, Université catholique de Louvain).
+- 2024.09-2025.07: **Paula Granda Gutiérrez**, Double BSc in Physics and Mathematics, *Optimization of the response of Hodgkins-Huxley neuronal simulators with Automatic Differentiation* (UniOvi).
+- 2024.09-2025.07: **Álvaro Sánchez Fernández**, Double BSc in Mathematics and Physics *Study of equivariant neural networks for robust CP observables* (UniOvi, with Clara Ramón Álvarez, University of Virginia).
+- 2024.09-2025.06: **Marta de la Puente Santos**, BSc in Physics, *"Bias Reduction via Expectation Maximization in Artificial-Intelligence Based Optimization of a Muon Tomography System"* (UniOvi, with Zahraa Zaher, Université catholique de Louvain).
 - 2024.09-2025.06: **Jimena Gómez Fernández**, BSc in Physics: *Artificial-Intelligence Based Study of Advanced Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.).
 - 2024.09-2025.06: **Juan Pérez Barrero**, Double BSc in Mathematics and Physics, *Study of equivariant neural networks for CP robust observables implemented in quantum circuitsÇ* (UniOvi).
 - 2024.09-2025.06: **Alberto Nieto Cardoso**, Double BSc in Mathematics and Physics, *Analysis of Cosmological Data Using Artificial Intelligence Techniques* (UniOvi, with George Alestas, IFT).
