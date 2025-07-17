@@ -6,7 +6,11 @@ slug: /talks
 # Talks
 
 ## Latest highlights (not by category)
-
+- 2025-07-01: (Invited seminar) **"Differentiable Programming at the Frontiers of Computation"**, seminar at CP3, UCLouvain, Louvain-la-Neuve, Belgium
+- 2025-06-23: (Plenary+poster) **"Differentiable Programming at the Frontiers of Computation"**, talk at Newton Institute Workshop on Experiment Design, Cambridge, United Kingdom
+- 2025-06-19: (Plenary) **"Neuromorphic-Computing Based Advances in Calorimetry"**, presentation at 2nd Jornadas del ICTEA, Oviedo, Spain
+- 2025-05-19: (Invited seminar) **"Differentiable Programming at the Frontiers of Computation"**, invited seminar at EPFL, Lausanne, Switzerland
+- 2025-05-14: (Invited seminar): **"From Machine Learning to Differentiable Programming at the Frontiers of Computation"**, invited seminar at Universidad de Santiago de Compostela and IGFAE, Spain
 - 2025-02-25: (Invited lecture) **"Automatic Differentiation"**, lecture at the course "Programming for Scientific Computing" at Lulea Technical University, Sweden
 - 2025-02-25: (Invited seminar) **"Differentiable Programming for the Frontiers of Computation"**, seminar at Lulea Technical University, Sweden
 - 2025-02-20: (Invited lectures) **"Differentiable Programming"**, series of lectures within the AI4Physics course at Uppsala Universitet, Sweden
