@@ -56,10 +56,14 @@ If you are interested in any of the opportunities below, in particular in the pe
 
 ### Current Master students
 
+- For the academic year 2025-2026 I have still capacity for four or five students. Available topics include neuromorphic computing, muon tomography, equivariant networks with quantum machine learning, optimization of the TAMBO experiment, machine learning for binary black hole systems.
+
 - 2025.01-present: **Jacopo de Piccoli**, MSc in Physics, *"Study of associated top pair and Higgs production in multilepton events at 13.6 TeV with the CMS detector"* (Università degli Studi di Padova, with Tommaso Dorigo).
 
 ### Current Bachelor students
 
+- For the academic year 2025-2026 I have still capacity for five or six students. Still available topics include neuromorphic computing, muon tomography, optimization of the TAMBO experiment, machine learning for binary black hole systems.
+    
 - 2025.09-present: **Raúl Iglesias Ablanedo**, Double BSc in Physics and Mathematics, *Applications of Neuromorphic Computing to High Energy Physics problems* (UniOvi)
 - 2025.09-present: **Ignacio González Álvarez**, Double BSc in Physics and Mathematics, *Equivariant Neural Networks implemented in quantum circuits* (UniOvi, with Sergio Sanchez Cruz)
     
