@@ -43,7 +43,7 @@ If you are interested in any of the opportunities below, in particular in the pe
     
 ### Current Postdocs
 
-- If you got your PhD between 1 January 2023 and 31 December 2024, and you are interested in a postdoc with me, please contact me a.s.a.p. using the email address at the bottom of the page. There will be a call closing on February 2025.
+If you got your PhD between 1 January 2023 and 31 December 2024, and you are interested in a postdoc with me, please contact me a.s.a.p. using the email address at the bottom of the page. There will be a call closing on February 2025.
     
 
 ### Current PhD students
