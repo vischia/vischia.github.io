@@ -17,6 +17,7 @@ Full list of publications available via my [ORCID ID](https://orcid.org/0000-000
 # Latest publication highlights
 
 - M. Pereira Martínez, X. Cid Vidal, Pietro Vischia, "Automatic Optimization of a Parallel-Plate Avalanche Counter with Optical Readout", Particles 2025, 8(1), 26 ([10.3390/particles8010026](https://doi.org/10.3390/particles8010026), [2503.02538](https://arxiv.org/abs/2503.02538))
+-M. Aehle et al. (P.V.), "Progress in End-to-End Optimization of Detectors for Fundamental Physics with Differentiable Programming ", Reviews in Physics 13 (2025), 100120 ([10.1016/j.revip.2025.100120](https://doi.org/10.1016/j.revip.2025.100120), [2310.05673](https://arxiv.org/abs/2310.05673))
 - E. Lupi et al. (P.V.), "Neuromorphic Readout for Hadron Calorimeters", Particles 2025, 8(2) 52 ([10.3390/particles8020052](https://doi.org/10.3390/particles8020052), [2502.12693](https://doi.org/10.48550/arXiv.2502.12693))
 - A. De Vita et al. (P.V.), "Hadron Identification Prospects With Granular Calorimeters", Particles 2025, 8(2) 58 ([10.3390/particles8020058](https://doi.org/10.3390/particles8020058) [2502.10817](https://doi.org/10.48550/arXiv.2502.10817))
 - K. Schmidt et al. (P.V.), "End-to-End Detector Optimization with Diffusion models: A Case Study in Sampling Calorimeters", Particles 2025, 8(2) 47 ([10.3390/particles8020047](https://doi.org/10.3390/particles8020047), [2502.02152](https://doi.org/10.48550/arXiv.2502.02152))
