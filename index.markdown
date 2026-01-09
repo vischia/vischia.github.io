@@ -49,7 +49,7 @@ If you got your PhD between 1 January 2023 and 31 December 2024, and you are int
 
 ### Current PhD students
 
-If you are interested in applying to Spanish funding agencies for funding for a PhD with me, please contact me (email address at the bottom of the page). In particular, there will be a call open to people who resided in Spain for 12 months in the last 36 months, closing on February 2025.
+If you are interested in applying to Spanish funding agencies for funding for a PhD with me, please contact me (email address at the bottom of the page). In particular, there is a call closing on February 2026.
 
 - 2025.09-present: **Daniel Lanchares Álvarez**, PhD thesis in Physics: *"Machine-Learning Powered Estimation of parameters for Binary Black Hole Systems"* (co-supervised with Luigi Toffolatti Ballarin, UniOvi, and José Antonio Font, Universidad de Valencia)
 - 2024.09-present: **María Pereira Martínez**, PhD thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
@@ -63,7 +63,7 @@ For the academic year 2025-2026 I have still capacity for four or five students.
 
 ### Current Bachelor students
 
-For the academic year 2025-2026 I have still capacity for five or six students. Still available topics include neuromorphic computing, muon tomography, optimization of the TAMBO experiment, machine learning for binary black hole systems.
+<!--For the academic year 2025-2026 I have still capacity for five or six students. Still available topics include neuromorphic computing, muon tomography, optimization of the TAMBO experiment, machine learning for binary black hole systems.-->
 
 - 2025.09-present: **Raúl Iglesias Ablanedo**, Double BSc in Physics and Mathematics, *Applications of Neuromorphic Computing to High Energy Physics problems* (UniOvi, with Enrico Lupi, CERN and Università di Padova)
 - 2025.09-present: **Diego Froilán García Campos**, Double BSc in Mathematics and Physics, *Neuromorphic Readout and Granularity in Hadron Calorimetry* (UniOvi, with Andrea Saborido Patiño, DIPC) 
