@@ -1,4 +1,4 @@
----
++---
 layout: home
 profile_picture:
     src: /assets/avatar.jpeg
@@ -33,6 +33,7 @@ I may have smaller projects to offer, suitable to interested students who want t
 ### Current funding opportunities
 If you are interested in any of the opportunities below, in particular in the periodic (usually yearly) ones, **please contact me well in advance**: successful applications are based not only on a good supervisee-supervisor match, but also on iterations on the detail of the project (true in particular for postdoc applications).
     
+- **I will open very shortly (Jan/Feb 2026) a call for a PhD student on Neuromorphic Computing, within a Pathfinder Open project recently funded by the European Innovation Council**
 - I can host applications to [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships): the call usually opens in May with deadline in September
 - Spanish postdoctoral *Juan de la Cierva* program: if you got your PhD between 1 January YEAR-1 and 31 December YEAR, you can apply for a 2-year postdoc position, deadline usually on February YEAR+1.
 - Several PhD (4-year positions) funding availabilities: if you expect to defend by September YEAR, you can apply to:
@@ -58,24 +59,29 @@ If you are interested in applying to Spanish funding agencies for funding for a 
 
 For the academic year 2025-2026 I have still capacity for four or five students. Available topics include neuromorphic computing, muon tomography, equivariant networks with quantum machine learning, optimization of the TAMBO experiment, machine learning for binary black hole systems.
 
-- 2025.01-present: **Jacopo de Piccoli**, MSc in Physics, *"Study of associated top pair and Higgs production in multilepton events at 13.6 TeV with the CMS detector"* (Università degli Studi di Padova, with Tommaso Dorigo).
+- 2025.06-present: **Rukshak Kapoor** (Thapar Institute of Engineering & Technology, Patiala), *Spiking Neural Networks and Neuromorphic Computing for Calorimetry*
 
 ### Current Bachelor students
 
 For the academic year 2025-2026 I have still capacity for five or six students. Still available topics include neuromorphic computing, muon tomography, optimization of the TAMBO experiment, machine learning for binary black hole systems.
-    
-- 2025.09-present: **Raúl Iglesias Ablanedo**, Double BSc in Physics and Mathematics, *Applications of Neuromorphic Computing to High Energy Physics problems* (UniOvi)
+
+- 2025.09-present: **Raúl Iglesias Ablanedo**, Double BSc in Physics and Mathematics, *Applications of Neuromorphic Computing to High Energy Physics problems* (UniOvi, with Enrico Lupi, CERN and Università di Padova)
+- 2025.09-present: **Diego Froilán García Campos**, Double BSc in Mathematics and Physics, *Neuromorphic Readout and Granularity in Hadron Calorimetry* (UniOvi, with Andrea Saborido Patiño, DIPC) 
+- 2025.09-present: ** Hugo Llamas García**, BSc in Physics, *Use of Artificial Intelligence Techniques for the Analysis if Radiation Maps from Biopsies of Colon Cancer Patients (UniOvi, with Jorge Pisonero Castro)
+- 2025.09-present: **Guillermo González Tejedo**, BSc in Physics, *Application of Artificial Intelligence Techniques in the Interpretation of Radiation Maps from Biopsies of Colon Cancer Patients* (UniOvi, with Jorge Pisonero Castro)
+- 2025.09-present: **Enol García Fontela**, BSc in Data Science and Engineering, *Machine Learning Techniques for Particle Reconstruction at the CMS Experiment** (UniOvi, with Santiago Folgueras)
+- 2025.09-present: **Cesar Martínez Martínez**, Double BSc in Physics and Mathematics, *Artificial-Intelligence Based Study of Advanced Problems in Image Reconstruction via Muon Tomography* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
+- 2025.09-present: **Izan Flórez García**, BSc in Physics, *Optimization of the Structure and Position of the TAMBO Experiment Detectors* (UniOvi)    
 - 2025.09-present: **Ignacio González Álvarez**, Double BSc in Physics and Mathematics, *Equivariant Neural Networks implemented in quantum circuits* (UniOvi, with Sergio Sanchez Cruz)
     
 ### Current interns
 
-- 2025-06-present: **Gursharan Singh** (Tata Institute of Fundamental Research TIFR, Mumbai), *Optimization of the experimental setup of TAMBO*
-- 2025-06-present: **Rukshak Kapoor** (Thapar Institute of Engineering & Technology, Patiala), *Spiking Neural Networks and Neuromorphic Computing for Calorimetry*
-- 2025-03-present: **Alberto Saborido Patiño** (MPI, Deutschland), *Spiking Neural Networks and Neuromorphic Computing for Calorimetry*
+- 2025-03-present: **Alberto Saborido Patiño** (DIPC), *Spiking Neural Networks and Neuromorphic Computing for Calorimetry*
        
 ### Alumni
 
 Master
+- 2025.01-2025.09: **Jacopo de Piccoli**, MSc in Physics, *"Study of associated top pair and Higgs production in multilepton events at 13.6 TeV with the CMS detector"* (Università degli Studi di Padova, with Tommaso Dorigo).
 - 2023.12-2024.07: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 
 Bachelor
@@ -92,5 +98,6 @@ Bachelor
 - 2023.12-2024.07: **Santiago Vila Domínguez**, BSc in Physics: *"Study of CP Violation in High-Energy Physics Collisions..."* (UniOvi, with Sergio Sánchez Cruz from UZH).
 <!-- - 2023.12-present: **Nicolás Lozano García**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández) -->
 Internships
+- 2025.06-2025.08: **Gursharan Singh** (Tata Institute of Fundamental Research TIFR, Mumbai), *Optimization of the experimental setup of TAMBO*
 - 2023.01-2023.04: **Mariam Safieldin** (American University of Beirut), internship: "*Development of an Expectation Maximization Algorithm for muon tomography detector optimization"* (UCLouvain/UniOvi, cosupervised and funded by UCLouvain's muon tomography group)
 
