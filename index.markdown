@@ -19,6 +19,8 @@ I also **apply machine learning algorithms to LHC data**, within the [CMS Collab
 
 My CMS-related responsibilities include being the **coordinator of the Machine Learning Group of the CMS Experiment for the years 2024-2026**, member of the **CMS Statistics Committee** (an advisory committee on topics concerning statistics), plus other responsibilities (e.g. HWW convener) within the CMS Collaboration. Until 2024.09, I have been the**coordinator of the CERN IML** (Interexperimental Machine Learning) Working Group.
 
+Besides being the coordinator of MODE, I am also member of the Collaboration Board of the [DRD-6 (DRD-Calo) Collaboration](https://drdcalo.web.cern.ch/), and member of the International Advisory Board of the [USERN Organization](https://usern.org/).
+
 For what concerns my activities in the CMS Collaboration, I joined the excellent [UniOviHEP-ICTEA CMS group](https://www.hep.uniovi.es/).
 
 ***
