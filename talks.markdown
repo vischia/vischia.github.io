@@ -7,7 +7,14 @@ slug: /talks
 
 ## Latest highlights (not by category)
 
-- 2025-07-18: (Invited plenary) **"Machine Learning Optimized Design of Experiments at the frontiers of computation: methods and new perspectives"**, invited plenary talk at ICNFP2025, Kolumbari, Crete
+- 2026-01-15: (Plenary talk) **"Discussion: Opportunities in CMS ML"**, 1st CMS Spain meeting, Oviedo, Spain
+- 2026-01-13: (Plenary talk) **"Oviedo DRDCalo Plans: NeuroMODE and PHINDER"**, 1st DRDCaloSpain, Madrid (online), Spain
+- 2025-12-15: (Plenary talk) **"Aprendizaje Automático en FPAUO-Exp"**, First Workshop on Machine Learning at ICTEA, UniOvi, Spain
+- 2025-10-26: (Selected Tutorial) **"Think Your Deep Learning Model Works? Think Again!"**, ECAI 2025, Bologna, Italy
+- 2025-10-17: (Invited lecture) **"Quantum Machine Learning"**, lecture at Máster en Ciencia de Datos, Universidad de Cantabria, Santander, Spain
+- 2025-10-05: (Invited outreach talk) **"Si no puedes ir tú, envía una máquina inteligente: explorar el cosmo con robots y inteligencia artificial"**, La Noche Lunática, Oviedo, Spain
+- 2025-09-05: (Invited lectures) **"Machine Learning lecture and tutorial"**, TAE School, Benasque, Spain
+- 2025-07-18: (Invited plenary) **"Machine Learning Optimized Design of Experiments at the frontiers of computation: methods and new perspectives"**, ICNFP2025, Kolumbari, Crete
 - 2025-07-01: (Invited seminar) **"Differentiable Programming at the Frontiers of Computation"**, seminar at CP3, UCLouvain, Louvain-la-Neuve, Belgium
 - 2025-06-23: (Plenary+poster) **"Differentiable Programming at the Frontiers of Computation"**, talk at Newton Institute Workshop on Experiment Design, Cambridge, United Kingdom
 - 2025-06-19: (Plenary) **"Neuromorphic-Computing Based Advances in Calorimetry"**, presentation at 2nd Jornadas del ICTEA, Oviedo, Spain

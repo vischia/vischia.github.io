@@ -26,6 +26,8 @@ slug: /teaching
 ## Past academic years
 
 - **2024/2025**
+  - Tutorial "Think Your Deep Learning Model Works? Think Again!", ECAI 2025, Bologna, Italy <!--1.5h-->
+  - Machine Learning lecture and tutorial, TAE School, Benasque, Spain <!--(4h)-->
   - School on Machine Learning, XIV International Conference on New Frontiers in Physics, Kolumbari, Crete <!--(10h)-->
   - Main teacher and coorganiser of Lisbon Machine Learning For Physics School, LIP Lisboa (in English) <!-- (15h)-->
   - Two guest lectures on Statistical Methods for Data Analysis, within the IDPASC Course on Physics at the LHC, LIP Lisboa (in English) <!--(4h)--> 

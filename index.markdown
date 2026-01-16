@@ -17,7 +17,7 @@ Within ICTEA, I aim at **bridging and promoting cross-contamination** between di
 
 I also **apply machine learning algorithms to LHC data**, within the [CMS Collaboration](https://cms.cern/collaboration), to study the associated production of the Higgs boson with a top quark pair (ttH) in final states with many leptons, the properties of the associated production of a W and a Z boson, and the search production of a pair of Higgs boson.
 
-My CMS-related responsibilities include being the **coordinator of the Machine Learning Group of the CMS Experiment for the years 2024-2026**, member of the **CMS Statistics Committee** (an advisory committee on topics concerning statistics), plus other responsibilities (e.g. HWW convener) within the CMS Collaboration. Until 2024.09, I have been the**coordinator of the CERN IML** (Interexperimental Machine Learning) Working Group.
+My CMS-related responsibilities include being the **coordinator of the Machine Learning Group of the CMS Experiment for the years 2024-2026**, member of the **CMS Statistics Committee** (an advisory committee on topics concerning statistics), plus other responsibilities (e.g. HWW convener) within the CMS Collaboration. From 2020 to 2024, I have been the **coordinator of the CERN IML** (Interexperimental Machine Learning) Working Group.
 
 Besides being the coordinator of MODE, I am also member of the **Collaboration Board of the [DRD-6 (DRD-Calo) Collaboration](https://drdcalo.web.cern.ch/)**, and member of the **International Advisory Board of the [USERN Organization](https://usern.org/)**.
 
