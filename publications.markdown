@@ -10,11 +10,11 @@ Full list of publications available via my [ORCID ID](https://orcid.org/0000-000
 
 - X. T. Nguyen et al. (P.V.), "Differentiable Surrogate for Detector Simulation and Design with Diffusion Models", submitted to Machine Learning: Science and Technology, ([2601.07859](https://doi.org/10.48550/arXiv.2601.07859))
 - C. A. Argüelles et al. (P.V.), "TAMBO: A Deep-Valley Neutrino Observatory", submitted to Nature Astronomy, ([2507.08070](https://doi.org/10.48550/arXiv.2507.08070))
-- S. Caron et al. (P.V.), "Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics: Insights from JENA and EuCAIF", Accepted by Machine Learning: Science and Technology, [10.1088/2632-2153/ae35cd](https://doi.org/10.1088/2632-2153/ae35cd))
 
 
 # Latest publication highlights
 
+- S. Caron et al. (P.V.), "Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics: Insights from JENA and EuCAIF", Mach. Learn.: Sci. Technol. 7 013002, [10.1088/2632-2153/ae35cd](https://doi.org/10.1088/2632-2153/ae35cd))
 - K. G. Barman et al. (P.V.), "Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models",  Eur. Phys. J. C 85, 1066 (2025), [10.1140/epjc/s10052-025-14707-8](https://doi.org/10.1140/epjc/s10052-025-14707-8)
 - Z. Zaher et al. (P.V.), "Optimization of a cosmic muon tomography scanner for cargo border control inspection", J. Appl. Phys. 138, 194903 (2025), ([10.1063/5.0287758](https://doi.org/10.1063/5.0287758))
 - M. Pereira Martínez, X. Cid Vidal, Pietro Vischia, "Automatic Optimization of a Parallel-Plate Avalanche Counter with Optical Readout", Particles 2025, 8(1), 26 ([10.3390/particles8010026](https://doi.org/10.3390/particles8010026), [2503.02538](https://arxiv.org/abs/2503.02538))
