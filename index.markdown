@@ -5,6 +5,10 @@ profile_picture:
     alt: My photo
 ---
 
+# I am currently hiring!
+
+ - **Predoctoral researcher (R1) to work on EIC Pathfinder project PHINDER at UniOvi. I am seeking a PhD student to join the project PHINDER, to work at the co-design of a neuromorphic readout system based on nanophotonics. The successful candidate will join with the goal of designing and optimising surrogate models and spiking neural models to be implemented in neuromorphic hardware manufactured by the consortium and co-designing said hardware. Applications are open at [https://inspirehep.net/jobs/3112841](https://inspirehep.net/jobs/3112841)**
+    
 # Who am I
 
 I am a **Ramón y Cajal senior researcher** at the Universidad de Oviedo and [ICTEA](https://ictea.uniovi.es/), and **Adjunct Professor** at IITM. Previously I have been a postdoc at Université catholique de Louvain (Belgium, IISN postdoc and then FNRS chargé de recherche, 2018-2022), Universidad de Oviedo (2016-2018), and I got my PhD from Instituto Superior Técnico (Lisboa, Portugal) in 2016. I got my bachelor and master's degrees from Università degli Studi di Padova (Italy).
