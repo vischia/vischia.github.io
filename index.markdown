@@ -35,7 +35,7 @@ I may have smaller projects to offer, suitable to interested students who want t
 ### Current funding opportunities
 If you are interested in any of the opportunities below, in particular in the periodic (usually yearly) ones, **please contact me well in advance**: successful applications are based not only on a good supervisee-supervisor match, but also on iterations on the detail of the project (true in particular for postdoc applications).
     
-- **I will open very shortly (Jan/Feb 2026) a call for a PhD student on Neuromorphic Computing, within a Pathfinder Open project recently funded by the European Innovation Council**
+- **Predoctoral researcher (R1) to work on EIC Pathfinder project PHINDER at UniOvi. I am seeking a PhD student to join the project PHINDER, to work at the co-design of a neuromorphic readout system based on nanophotonics. The successful candidate will join with the goal of designing and optimising surrogate models and spiking neural models to be implemented in neuromorphic hardware manufactured by the consortium and co-designing said hardware. Applications are open at [https://inspirehep.net/jobs/3112841](https://inspirehep.net/jobs/3112841)**
 - I can host applications to [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships): the call usually opens in May with deadline in September
 - Spanish postdoctoral *Juan de la Cierva* program: if you got your PhD between 1 January YEAR-1 and 31 December YEAR, you can apply for a 2-year postdoc position, deadline usually on February YEAR+1.
 - Several PhD (4-year positions) funding availabilities: if you expect to defend by September YEAR, you can apply to:
