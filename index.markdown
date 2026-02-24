@@ -52,7 +52,8 @@ If you are interested in any of the opportunities below, in particular in the pe
 
 If you got your PhD between 1 January 2023 and 31 December 2024, and you are interested in a postdoc with me, please contact me a.s.a.p. using the email address at the bottom of the page. There will be a call closing on February 2025.
     
-
+- 2026.11-present: **Lorenzo Arsini** (Marie Curie Postdoctoral Individual Fellowship), *"PROton therapy DIfferentiable Gradient-based Inverse Optimization"*
+    
 ### Current PhD students
 
 If you are interested in applying to Spanish funding agencies for funding for a PhD with me, please contact me (email address at the bottom of the page). In particular, there is a call closing on February 2026.
@@ -65,7 +66,7 @@ If you are interested in applying to Spanish funding agencies for funding for a 
 
 For the academic year 2025-2026 I have still capacity for four or five students. Available topics include neuromorphic computing, muon tomography, equivariant networks with quantum machine learning, optimization of the TAMBO experiment, machine learning for binary black hole systems.
 
-- 2025.06-present: **Rukshak Kapoor** (Thapar Institute of Engineering & Technology, Patiala), *Spiking Neural Networks and Neuromorphic Computing for Calorimetry*
+- 2025.06-present: **Rukshak Kapoor** (Thapar Institute of Engineering & Technology, Patiala), *"Spiking Neural Networks and Neuromorphic Computing for Calorimetry"*
 
 ### Current Bachelor students
 
@@ -82,7 +83,8 @@ For the academic year 2025-2026 I have still capacity for four or five students.
     
 ### Current interns
 
-- 2025-03-present: **Alberto Saborido Patiño** (DIPC), *Spiking Neural Networks and Neuromorphic Computing for Calorimetry*
+- 2026.02-present: **Bhavna Advani** (Universidad de A Coruña), *"Optimization of the TAMBO detector"*
+- 2025.03-present: **Alberto Saborido Patiño** (DIPC), *"Spiking Neural Networks and Neuromorphic Computing for Calorimetry"*
        
 ### Alumni
 
