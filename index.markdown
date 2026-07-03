@@ -5,10 +5,6 @@ profile_picture:
     alt: My photo
 ---
 
-# I am currently hiring!
-
- - **Predoctoral researcher (R1) to work on EIC Pathfinder project PHINDER at UniOvi. I am seeking a PhD student to join the project PHINDER, to work at the co-design of a neuromorphic readout system based on nanophotonics. The successful candidate will join with the goal of designing and optimising surrogate models and spiking neural models to be implemented in neuromorphic hardware manufactured by the consortium and co-designing said hardware. Applications are open at [https://inspirehep.net/jobs/3112841](https://inspirehep.net/jobs/3112841)**
-    
 # Who am I
 
 I am a **Ramón y Cajal senior researcher** at the Universidad de Oviedo and [ICTEA](https://ictea.uniovi.es/), and **Adjunct Professor** at IITM. Previously I have been a postdoc at Université catholique de Louvain (Belgium, IISN postdoc and then FNRS chargé de recherche, 2018-2022), Universidad de Oviedo (2016-2018), and I got my PhD from Instituto Superior Técnico (Lisboa, Portugal) in 2016. I got my bachelor and master's degrees from Università degli Studi di Padova (Italy).
@@ -39,7 +35,7 @@ I may have smaller projects to offer, suitable to interested students who want t
 ### Current funding opportunities
 If you are interested in any of the opportunities below, in particular in the periodic (usually yearly) ones, **please contact me well in advance**: successful applications are based not only on a good supervisee-supervisor match, but also on iterations on the detail of the project (true in particular for postdoc applications).
     
-- **Predoctoral researcher (R1) to work on EIC Pathfinder project PHINDER at UniOvi. I am seeking a PhD student to join the project PHINDER, to work at the co-design of a neuromorphic readout system based on nanophotonics. The successful candidate will join with the goal of designing and optimising surrogate models and spiking neural models to be implemented in neuromorphic hardware manufactured by the consortium and co-designing said hardware. Applications are open at [https://inspirehep.net/jobs/3112841](https://inspirehep.net/jobs/3112841)**
+- **JOB** CLOSED Predoctoral researcher (R1) to work on EIC Pathfinder project PHINDER at UniOvi. I am seeking a PhD student to join the project PHINDER, to work at the co-design of a neuromorphic readout system based on nanophotonics. The successful candidate will join with the goal of designing and optimising surrogate models and spiking neural models to be implemented in neuromorphic hardware manufactured by the consortium and co-designing said hardware.
 - I can host applications to [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships): the call usually opens in May with deadline in September
 - Spanish postdoctoral *Juan de la Cierva* program: if you got your PhD between 1 January YEAR-1 and 31 December YEAR, you can apply for a 2-year postdoc position, deadline usually on February YEAR+1.
 - Several PhD (4-year positions) funding availabilities: if you expect to defend by September YEAR, you can apply to:
@@ -58,6 +54,7 @@ If you got your PhD between 1 January 2023 and 31 December 2024, and you are int
 
 If you are interested in applying to Spanish funding agencies for funding for a PhD with me, please contact me (email address at the bottom of the page). In particular, there is a call closing on February 2026.
 
+- 2026.07-present: **Carlo Gulizia**, PhD thesis in Physics: *"Co-design of a picosecond-scale Photonic Heterogeneous Integrated Neuromorphic Detector"* (Universidad de Oviedo)
 - 2025.09-present: **Daniel Lanchares Álvarez**, PhD thesis in Physics: *"Machine-Learning Powered Estimation of parameters for Binary Black Hole Systems"* (co-supervised with Luigi Toffolatti Ballarin, UniOvi, and José Antonio Font, Universidad de Valencia)
 - 2024.09-present: **María Pereira Martínez**, PhD thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 - 2023.06-present: **Sadhana Verma**, PhD thesis in Physics: *"Off-Shell Higgs to WW production"* (IIT Madras, co-supervised with [Arul Lakshminarayan](https://physics.iitm.ac.in/~arul/))
@@ -73,14 +70,11 @@ For the academic year 2025-2026 I have still capacity for four or five students.
 <!--For the academic year 2025-2026 I have still capacity for five or six students. Still available topics include neuromorphic computing, muon tomography, optimization of the TAMBO experiment, machine learning for binary black hole systems.-->
 
 - 2025.09-present: **Raúl Iglesias Ablanedo**, Double BSc in Physics and Mathematics, *Applications of Neuromorphic Computing to High Energy Physics problems* (UniOvi, with Enrico Lupi, CERN and Università di Padova)
-- 2025.09-present: **Diego Froilán García Campos**, Double BSc in Mathematics and Physics, *Neuromorphic Readout and Granularity in Hadron Calorimetry* (UniOvi, with Andrea Saborido Patiño, DIPC) 
 - 2025.09-present: ** Hugo Llamas García**, BSc in Physics, *Use of Artificial Intelligence Techniques for the Analysis if Radiation Maps from Biopsies of Colon Cancer Patients (UniOvi, with Jorge Pisonero Castro)
 - 2025.09-present: **Guillermo González Tejedo**, BSc in Physics, *Application of Artificial Intelligence Techniques in the Interpretation of Radiation Maps from Biopsies of Colon Cancer Patients* (UniOvi, with Jorge Pisonero Castro)
 - 2025.09-present: **Enol García Fontela**, BSc in Data Science and Engineering, *Machine Learning Techniques for Particle Reconstruction at the CMS Experiment** (UniOvi, with Santiago Folgueras)
-- 2025.09-present: **Cesar Martínez Martínez**, Double BSc in Physics and Mathematics, *Artificial-Intelligence Based Study of Advanced Problems in Image Reconstruction via Muon Tomography* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
-- 2025.09-present: **Izan Flórez García**, BSc in Physics, *Optimization of the Structure and Position of the TAMBO Experiment Detectors* (UniOvi)    
 - 2025.09-present: **Ignacio González Álvarez**, Double BSc in Physics and Mathematics, *Equivariant Neural Networks implemented in quantum circuits* (UniOvi, with Sergio Sanchez Cruz)
-    
+        
 ### Current interns
 
 - 2026.02-present: **Bhavna Advani** (Universidad de A Coruña), *"Optimization of the TAMBO detector"*
@@ -93,12 +87,18 @@ Master
 - 2023.12-2024.07: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 
 Bachelor
+2025-2026
+- 2025.09-2026.06: **Diego Froilán García Campos**, Double BSc in Mathematics and Physics, *Neuromorphic Readout and Granularity in Hadron Calorimetry* (UniOvi, with Andrea Saborido Patiño, DIPC)
+- 2025.09-2026.06: **Cesar Martínez Martínez**, Double BSc in Physics and Mathematics, *Artificial-Intelligence Based Study of Advanced Problems in Image Reconstruction via Muon Tomography* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
+- 2025.09-2026.06: **Izan Flórez García**, BSc in Physics, *Optimization of the Structure and Position of the TAMBO Experiment Detectors* (UniOvi)
+2024-2025
 - 2024.09-2025.07: **Paula Granda Gutiérrez**, Double BSc in Physics and Mathematics, *Optimization of the response of Hodgkins-Huxley neuronal simulators with Automatic Differentiation* (UniOvi).
 - 2024.09-2025.07: **Álvaro Sánchez Fernández**, Double BSc in Mathematics and Physics *Study of equivariant neural networks for robust CP observables* (UniOvi, with Clara Ramón Álvarez, University of Virginia).
 - 2024.09-2025.06: **Marta de la Puente Santos**, BSc in Physics, *"Bias Reduction via Expectation Maximization in Artificial-Intelligence Based Optimization of a Muon Tomography System"* (UniOvi, with Zahraa Zaher, Université catholique de Louvain).
 - 2024.09-2025.06: **Jimena Gómez Fernández**, BSc in Physics: *Artificial-Intelligence Based Study of Advanced Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.).
 - 2024.09-2025.06: **Juan Pérez Barrero**, Double BSc in Mathematics and Physics, *Study of equivariant neural networks for CP robust observables implemented in quantum circuitsÇ* (UniOvi).
 - 2024.09-2025.06: **Alberto Nieto Cardoso**, Double BSc in Mathematics and Physics, *Analysis of Cosmological Data Using Artificial Intelligence Techniques* (UniOvi, with George Alestas, IFT).
+2023-2024
 - 2023.12-2024.07: **Pablo Canteli Morales**, BSc in Physics: *"Artificial-Intelligence Based Study of Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
 - 2023.12-2024.07: **Samuel Álvarez Lueje**, BSc in Physics: *"Artificial-Intelligence Based Optimization of a Muon Tomography System for the Detection of Smuggled Material in Containers"* (UniOvi, with Maxime Lagrange from UCLouvain).
 - 2023.12-2024.07: **Pablo Fernández Valdés**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández).
