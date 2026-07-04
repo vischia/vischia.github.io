@@ -35,7 +35,7 @@ I may have smaller projects to offer, suitable to interested students who want t
 ### Current funding opportunities
 If you are interested in any of the opportunities below, in particular in the periodic (usually yearly) ones, **please contact me well in advance**: successful applications are based not only on a good supervisee-supervisor match, but also on iterations on the detail of the project (true in particular for postdoc applications).
     
-- **JOB** CLOSED Predoctoral researcher (R1) to work on EIC Pathfinder project PHINDER at UniOvi. I am seeking a PhD student to join the project PHINDER, to work at the co-design of a neuromorphic readout system based on nanophotonics. The successful candidate will join with the goal of designing and optimising surrogate models and spiking neural models to be implemented in neuromorphic hardware manufactured by the consortium and co-designing said hardware.
+- **JOB CLOSED** Predoctoral researcher (R1) to work on EIC Pathfinder project PHINDER at UniOvi. I am seeking a PhD student to join the project PHINDER, to work at the co-design of a neuromorphic readout system based on nanophotonics. The successful candidate will join with the goal of designing and optimising surrogate models and spiking neural models to be implemented in neuromorphic hardware manufactured by the consortium and co-designing said hardware.
 - I can host applications to [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships): the call usually opens in May with deadline in September
 - Spanish postdoctoral *Juan de la Cierva* program: if you got your PhD between 1 January YEAR-1 and 31 December YEAR, you can apply for a 2-year postdoc position, deadline usually on February YEAR+1.
 - Several PhD (4-year positions) funding availabilities: if you expect to defend by September YEAR, you can apply to:
@@ -82,15 +82,17 @@ For the academic year 2025-2026 I have still capacity for four or five students.
        
 ### Alumni
 
-Master
+_Master_
 - 2025.01-2025.09: **Jacopo de Piccoli**, MSc in Physics, *"Study of associated top pair and Higgs production in multilepton events at 13.6 TeV with the CMS detector"* (Università degli Studi di Padova, with Tommaso Dorigo).
 - 2023.12-2024.07: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 
-Bachelor
+_Bachelor_
+
 2025-2026
 - 2025.09-2026.06: **Diego Froilán García Campos**, Double BSc in Mathematics and Physics, *Neuromorphic Readout and Granularity in Hadron Calorimetry* (UniOvi, with Andrea Saborido Patiño, DIPC)
 - 2025.09-2026.06: **Cesar Martínez Martínez**, Double BSc in Physics and Mathematics, *Artificial-Intelligence Based Study of Advanced Problems in Image Reconstruction via Muon Tomography* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
 - 2025.09-2026.06: **Izan Flórez García**, BSc in Physics, *Optimization of the Structure and Position of the TAMBO Experiment Detectors* (UniOvi)
+
 2024-2025
 - 2024.09-2025.07: **Paula Granda Gutiérrez**, Double BSc in Physics and Mathematics, *Optimization of the response of Hodgkins-Huxley neuronal simulators with Automatic Differentiation* (UniOvi).
 - 2024.09-2025.07: **Álvaro Sánchez Fernández**, Double BSc in Mathematics and Physics *Study of equivariant neural networks for robust CP observables* (UniOvi, with Clara Ramón Álvarez, University of Virginia).
@@ -98,6 +100,7 @@ Bachelor
 - 2024.09-2025.06: **Jimena Gómez Fernández**, BSc in Physics: *Artificial-Intelligence Based Study of Advanced Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.).
 - 2024.09-2025.06: **Juan Pérez Barrero**, Double BSc in Mathematics and Physics, *Study of equivariant neural networks for CP robust observables implemented in quantum circuitsÇ* (UniOvi).
 - 2024.09-2025.06: **Alberto Nieto Cardoso**, Double BSc in Mathematics and Physics, *Analysis of Cosmological Data Using Artificial Intelligence Techniques* (UniOvi, with George Alestas, IFT).
+
 2023-2024
 - 2023.12-2024.07: **Pablo Canteli Morales**, BSc in Physics: *"Artificial-Intelligence Based Study of Optimization Problems in Muon Tomography Imaging"* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
 - 2023.12-2024.07: **Samuel Álvarez Lueje**, BSc in Physics: *"Artificial-Intelligence Based Optimization of a Muon Tomography System for the Detection of Smuggled Material in Containers"* (UniOvi, with Maxime Lagrange from UCLouvain).
@@ -105,7 +108,8 @@ Bachelor
 - 2023.12-2024.07: **Manuel Uría García**, BSc in Physics: *"Sentiment Analysis with Quantum Natural Language Processing"* (UniOvi, with José Manuel Uría González from UriaXait s.l.).
 - 2023.12-2024.07: **Santiago Vila Domínguez**, BSc in Physics: *"Study of CP Violation in High-Energy Physics Collisions..."* (UniOvi, with Sergio Sánchez Cruz from UZH).
 <!-- - 2023.12-present: **Nicolás Lozano García**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández) -->
-Internships
+
+_Internships_
 - 2025.06-2025.08: **Gursharan Singh** (Tata Institute of Fundamental Research TIFR, Mumbai), *Optimization of the experimental setup of TAMBO*
 - 2023.01-2023.04: **Mariam Safieldin** (American University of Beirut), internship: "*Development of an Expectation Maximization Algorithm for muon tomography detector optimization"* (UCLouvain/UniOvi, cosupervised and funded by UCLouvain's muon tomography group)
 
