@@ -82,11 +82,11 @@ For the academic year 2025-2026 I have still capacity for four or five students.
        
 ### Alumni
 
-_Master_
+<u>Master</u>
 - 2025.01-2025.09: **Jacopo de Piccoli**, MSc in Physics, *"Study of associated top pair and Higgs production in multilepton events at 13.6 TeV with the CMS detector"* (Università degli Studi di Padova, with Tommaso Dorigo).
 - 2023.12-2024.07: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 
-_Bachelor_
+<u>Bachelor</u>
 
 2025-2026
 - 2025.09-2026.06: **Diego Froilán García Campos**, Double BSc in Mathematics and Physics, *Neuromorphic Readout and Granularity in Hadron Calorimetry* (UniOvi, with Andrea Saborido Patiño, DIPC)
@@ -109,7 +109,7 @@ _Bachelor_
 - 2023.12-2024.07: **Santiago Vila Domínguez**, BSc in Physics: *"Study of CP Violation in High-Energy Physics Collisions..."* (UniOvi, with Sergio Sánchez Cruz from UZH).
 <!-- - 2023.12-present: **Nicolás Lozano García**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández) -->
 
-_Internships_
+<u>Internships</u>
 - 2025.06-2025.08: **Gursharan Singh** (Tata Institute of Fundamental Research TIFR, Mumbai), *Optimization of the experimental setup of TAMBO*
 - 2023.01-2023.04: **Mariam Safieldin** (American University of Beirut), internship: "*Development of an Expectation Maximization Algorithm for muon tomography detector optimization"* (UCLouvain/UniOvi, cosupervised and funded by UCLouvain's muon tomography group)
 
