@@ -54,7 +54,7 @@ If you got your PhD between 1 January 2023 and 31 December 2024, and you are int
 
 If you are interested in applying to Spanish funding agencies for funding for a PhD with me, please contact me (email address at the bottom of the page). In particular, there is a call closing on February 2026.
 
-- 2026.07-present: **Carlo Gulizia**, PhD thesis in Physics: *"Co-design of a picosecond-scale Photonic Heterogeneous Integrated Neuromorphic Detector"* (Universidad de Oviedo)
+- 2026.07-present: **Carlo Gulizia**, PhD thesis in Physics: *"Co-design of a picosecond-scale Photonic Heterogeneous Integrated Neuromorphic Detector"* (Universidad de Oviedo), funded by the EIC Pathfinder program under Grant Agreement n. [101258353](https://doi.org/10.3030/101258353) (PHINDER).
 - 2025.09-present: **Daniel Lanchares Álvarez**, PhD thesis in Physics: *"Machine-Learning Powered Estimation of parameters for Binary Black Hole Systems"* (co-supervised with Luigi Toffolatti Ballarin, UniOvi, and José Antonio Font, Universidad de Valencia)
 - 2024.09-present: **María Pereira Martínez**, PhD thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 - 2023.06-present: **Sadhana Verma**, PhD thesis in Physics: *"Off-Shell Higgs to WW production"* (IIT Madras, co-supervised with [Arul Lakshminarayan](https://physics.iitm.ac.in/~arul/))
