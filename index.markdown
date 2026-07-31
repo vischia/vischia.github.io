@@ -19,7 +19,7 @@ I also **apply machine learning algorithms to LHC data**, within the [CMS Collab
 
 My CMS-related responsibilities include being the **coordinator of the Machine Learning Group of the CMS Experiment for the years 2024-2026**, member of the **CMS Statistics Committee** (an advisory committee on topics concerning statistics), plus other responsibilities (e.g. HWW convener) within the CMS Collaboration. From 2020 to 2024, I have been the **coordinator of the CERN IML** (Interexperimental Machine Learning) Working Group.
 
-Besides being the coordinator of MODE, I am also member of the **Collaboration Board of the [DRD-6 (DRD-Calo) Collaboration](https://drdcalo.web.cern.ch/)**, and member of the **International Advisory Board of the [USERN Organization](https://usern.org/)**.
+Besides being the coordinator of MODE, I am also member of the **Collaboration Board of the [DRD-6 (DRD-Calo) Collaboration](https://drdcalo.web.cern.ch/)**, member of the AI in Science Working Groups (AISWG) Panel of RAISE/SCIANCE, and member of the **International Advisory Board of the [USERN Organization](https://usern.org/)**.
 
 For what concerns my activities in the CMS Collaboration, I joined the excellent [UniOviHEP-ICTEA CMS group](https://www.hep.uniovi.es/).
 
@@ -63,18 +63,18 @@ If you are interested in applying to Spanish funding agencies for funding for a 
 
 For the academic year 2025-2026 I have still capacity for four or five students. Available topics include neuromorphic computing, muon tomography, equivariant networks with quantum machine learning, optimization of the TAMBO experiment, machine learning for binary black hole systems.
 
-- 2025.06-present: **Rukshak Kapoor** (Thapar Institute of Engineering & Technology, Patiala), *"Spiking Neural Networks and Neuromorphic Computing for Calorimetry"*
+- 
 
 ### Current Bachelor students
 
-<!--For the academic year 2025-2026 I have still capacity for five or six students. Still available topics include neuromorphic computing, muon tomography, optimization of the TAMBO experiment, machine learning for binary black hole systems.-->
+For the academic year 2026-2027 I have still capacity for three to four students. Still available topics include neuromorphic computing, muon tomography, optimization of the TAMBO experiment, machine learning for binary black hole systems. You can also propose yourself a topic , and if it fits with my research interests then we can proceed with that.
 
-- 2025.09-present: **Raúl Iglesias Ablanedo**, Double BSc in Physics and Mathematics, *Applications of Neuromorphic Computing to High Energy Physics problems* (UniOvi, with Enrico Lupi, CERN and Università di Padova)
-- 2025.09-present: ** Hugo Llamas García**, BSc in Physics, *Use of Artificial Intelligence Techniques for the Analysis if Radiation Maps from Biopsies of Colon Cancer Patients (UniOvi, with Jorge Pisonero Castro)
-- 2025.09-present: **Guillermo González Tejedo**, BSc in Physics, *Application of Artificial Intelligence Techniques in the Interpretation of Radiation Maps from Biopsies of Colon Cancer Patients* (UniOvi, with Jorge Pisonero Castro)
+- 2026.09-present: **Elías Ruiz Fernández**, Double BSc in Physics and Mathematics, *Neuronal Modelling for Medical Applications* (tentative title) (UniOvi, with Víctor Manuel González Suárez)
+- 2026.09-present: **Júlia Sánchez Oliva**, Double BSc in Physics and Mathematics, *Machine-learning Powered Data Analysis for the SBND Neutrino Experiment* (UniOvi, with Bruno Zamorano from UGranada)
+- 2026.09-present: **Manuel Martínez Tejuca**, BSc in Physics, *Gradient-based Dose Optimization for Proton Therapy* (UniOvi, with Lorenzo Arsini)
 - 2025.09-present: **Enol García Fontela**, BSc in Data Science and Engineering, *Machine Learning Techniques for Particle Reconstruction at the CMS Experiment** (UniOvi, with Santiago Folgueras)
-- 2025.09-present: **Ignacio González Álvarez**, Double BSc in Physics and Mathematics, *Equivariant Neural Networks implemented in quantum circuits* (UniOvi, with Sergio Sanchez Cruz)
-        
+
+            
 ### Current interns
 
 - 2026.02-present: **Bhavna Advani** (Universidad de A Coruña), *"Optimization of the TAMBO detector"*
@@ -83,12 +83,17 @@ For the academic year 2025-2026 I have still capacity for four or five students.
 ### Alumni
 
 <u>Master</u>
+- 2025.06-2026-07: **Rukshak Kapoor** (Thapar Institute of Engineering & Technology, Patiala), *"Spiking Neural Networks and Neuromorphic Computing for Calorimetry"*
 - 2025.01-2025.09: **Jacopo de Piccoli**, MSc in Physics, *"Study of associated top pair and Higgs production in multilepton events at 13.6 TeV with the CMS detector"* (Università degli Studi di Padova, with Tommaso Dorigo).
 - 2023.12-2024.07: **María Pereira Martínez**, MSc thesis in Physics: *"Use of machine learning techniques for the optimization of a neutron tomography system"* (Universidad de Santiago de Compostela, co-supervised with Xabier Cid Vidal).
 
 <u>Bachelor</u>
 
 2025-2026
+- 2025.09-2026-07: **Raúl Iglesias Ablanedo**, Double BSc in Physics and Mathematics, *Applications of Neuromorphic Computing to High Energy Physics problems* (UniOvi, with Enrico Lupi, CERN and Università di Padova)
+- 2025.09-2026-07: **Hugo Llamas García**, BSc in Physics, *Use of Artificial Intelligence Techniques for the Analysis if Radiation Maps from Biopsies of Colon Cancer Patients (UniOvi, with Jorge Pisonero Castro)
+- 2025.09-2026-07: **Guillermo González Tejedo**, BSc in Physics, *Application of Artificial Intelligence Techniques in the Interpretation of Radiation Maps from Biopsies of Colon Cancer Patients* (UniOvi, with Jorge Pisonero Castro)
+- 2025.09-2026-07: **Ignacio González Álvarez**, Double BSc in Physics and Mathematics, *Equivariant Neural Networks implemented in quantum circuits* (UniOvi, with Sergio Sanchez Cruz)
 - 2025.09-2026.06: **Diego Froilán García Campos**, Double BSc in Mathematics and Physics, *Neuromorphic Readout and Granularity in Hadron Calorimetry* (UniOvi, with Andrea Saborido Patiño, DIPC)
 - 2025.09-2026.06: **Cesar Martínez Martínez**, Double BSc in Physics and Mathematics, *Artificial-Intelligence Based Study of Advanced Problems in Image Reconstruction via Muon Tomography* (UniOvi, with Carlos Díez González, Muon Tomography Systems s.l.)
 - 2025.09-2026.06: **Izan Flórez García**, BSc in Physics, *Optimization of the Structure and Position of the TAMBO Experiment Detectors* (UniOvi)
