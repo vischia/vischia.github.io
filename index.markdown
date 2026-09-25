@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-    src: /assets/avatar.jpeg
+    src: /assets/avatar_new_new.png
     alt: My photo
 ---
 
