@@ -72,7 +72,7 @@ For the academic year 2026-2027 I have still capacity for three to four students
 - 2026.09-present: **Daniel Valdés Roca**, BSc in Data Science and Engineering, *Artificial-Intelligence based study of advanced optimization problems in imaging for muography applied to the classification of biological tissue* (UniOvi, with Pablo Martínez Ruiz del Àrbol from UCan)
 - 2026.09-present: **María Álvarez Álvarez**, BSc in Physics, *Artificial-Intelligence based study of phase transitions in physical systems* (UniOvi, with Daniele Musso)
 - 2026.09-present: **Elías Ruiz Fernández**, Double BSc in Physics and Mathematics, *Neuronal Modelling for Medical Applications* (tentative title) (UniOvi, with Víctor Manuel González Suárez)
-- 2026.09-present: **Júlia Sánchez Oliva**, Double BSc in Physics and Mathematics, *Machine-learning Powered Data Analysis for the SBND Neutrino Experiment* (UniOvi, with Bruno Zamorano from UGranada)
+- 2026.09-present: **Júlia Sánchez Oliva**, Double BSc in Physics and Mathematics, *Machine-learning Powered Data Analysis for the SBND Neutrino Experiment* (UniOvi, SICUE program with Bruno Zamorano from UGranada)
 - 2026.09-present: **Manuel Martínez Tejuca**, BSc in Physics, *Gradient-based Dose Optimization for Proton Therapy* (UniOvi, with Lorenzo Arsini)
 - 2025.09-present: **Enol García Fontela**, BSc in Data Science and Engineering, *Machine Learning Techniques for Particle Reconstruction at the CMS Experiment** (UniOvi, with Santiago Folgueras)
 
