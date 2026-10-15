@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-    src: /assets/avatar_new_new.png
+    src: /assets/avatar_nice.webp
     alt: My photo
 ---
 
@@ -69,6 +69,8 @@ For the academic year 2025-2026 I have still capacity for four or five students.
 
 For the academic year 2026-2027 I have still capacity for three to four students. Still available topics include neuromorphic computing, muon tomography, optimization of the TAMBO experiment, machine learning for binary black hole systems. You can also propose yourself a topic , and if it fits with my research interests then we can proceed with that.
 
+- 2026.09-present: **Daniel Valdés Roca**, BSc in Data Science and Engineering, *Artificial-Intelligence based study of advanced optimization problems in imaging for muography applied to the classification of biological tissue* (UniOvi, with Pablo Martínez Ruiz del Àrbol from UCan)
+- 2026.09-present: **María Álvarez Álvarez**, BSc in Physics, *Artificial-Intelligence based study of phase transitions in physical systems* (UniOvi, with Daniele Musso)
 - 2026.09-present: **Elías Ruiz Fernández**, Double BSc in Physics and Mathematics, *Neuronal Modelling for Medical Applications* (tentative title) (UniOvi, with Víctor Manuel González Suárez)
 - 2026.09-present: **Júlia Sánchez Oliva**, Double BSc in Physics and Mathematics, *Machine-learning Powered Data Analysis for the SBND Neutrino Experiment* (UniOvi, with Bruno Zamorano from UGranada)
 - 2026.09-present: **Manuel Martínez Tejuca**, BSc in Physics, *Gradient-based Dose Optimization for Proton Therapy* (UniOvi, with Lorenzo Arsini)
@@ -77,7 +79,6 @@ For the academic year 2026-2027 I have still capacity for three to four students
             
 ### Current interns
 
-- 2026.02-present: **Bhavna Advani** (Universidad de A Coruña), *"Optimization of the TAMBO detector"*
 - 2025.03-present: **Alberto Saborido Patiño** (DIPC), *"Spiking Neural Networks and Neuromorphic Computing for Calorimetry"*
        
 ### Alumni
@@ -115,6 +116,7 @@ For the academic year 2026-2027 I have still capacity for three to four students
 <!-- - 2023.12-present: **Nicolás Lozano García**, BSc in Informatics: *"Simulation of Neurons with Spatial Extension and Study of their Response Function"* (UniOvi, with María José Pérez Fernández) -->
 
 <u>Internships</u>
+- 2026.02-2026.03: **Bhavna Advani** (Universidad de A Coruña), *"Optimization of the TAMBO detector"*
 - 2025.06-2025.08: **Gursharan Singh** (Tata Institute of Fundamental Research TIFR, Mumbai), *Optimization of the experimental setup of TAMBO*
 - 2023.01-2023.04: **Mariam Safieldin** (American University of Beirut), internship: "*Development of an Expectation Maximization Algorithm for muon tomography detector optimization"* (UCLouvain/UniOvi, cosupervised and funded by UCLouvain's muon tomography group)
 
