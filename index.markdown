@@ -67,7 +67,7 @@ For the academic year 2025-2026 I have still capacity for four or five students.
 
 ### Current Bachelor students
 
-For the academic year 2026-2027 I have still capacity for three to four students. Still available topics include neuromorphic computing, muon tomography, optimization of the TAMBO experiment, machine learning for binary black hole systems. You can also propose yourself a topic , and if it fits with my research interests then we can proceed with that.
+For the academic year 2026-2027 I have still capacity for a couple of students. Still available topics include neuromorphic computing, muon tomography, optimization of the TAMBO experiment, machine learning for binary black hole systems. You can also propose yourself a topic , and if it fits with my research interests then we can proceed with that.
 
 - 2026.09-present: **Elías Ruiz Fernández**, Double BSc in Physics and Mathematics, *Artificial-intelligence based study of coupled ordinary differential equations dynamics in the Hodgkin-Huxley model for studies with multielectrode arrays (MEAs)* (mathematics) and *Modelling the electrical response of a neuron culture to different types of neurotoxic substances, using multielectrode arrays (MEAs) and artificial intelligence techniques* (physics) (UniOvi, both with Víctor Manuel González Suárez and Guillermo Vilanova Caicoya)
 - 2026.09-present: **Daniel Valdés Roca**, BSc in Data Science and Engineering, *Artificial-Intelligence based study of advanced optimization problems in imaging for muography applied to the classification of biological tissue* (UniOvi, with Pablo Martínez Ruiz del Àrbol from UCan)
