@@ -7,17 +7,38 @@ slug: /talks
 
 ## Latest highlights (not by category)
 
+
+- 2026-10-21: (Parallel talk) AI for Experiment Design, contributed talk at Jornadas de la Red Española de Futuros Colisionadores, Valencia (given online), Spain
+- 2026-10-16: (Invited lecture) Quantum Machine Learning, lecture at Máster en Ciencia de Datos, Universidad de Cantabria, Santander, Spain
+- 2026-09-30: (Invited lectures) Differentiable Programming and Spiking Networks 2: spiking networks and neuromorphic computing, invited lecture at the First MLQC4FC COST Action School, Belgrade, Serbia
+- 2026-09-29: (Invited lectures) Differentiable Programming and Spiking Networks 1: differentiable programming, invited lecture at the First MLQC4FC COST Action School, Belgrade, Serbia
+- 2026-09-19: (Invited outreach talk) Si no puedes ir tú, envía una máquina inteligente: explorar el cosmo con robots y inteligencia artificial, charla en la Noche Lunatica 2026, Oviedo, Spain
+- 2026-09-08: (Invited Keynote) AI-assisted experiment design and optimization at the frontiers of computation: new perspectives in fundamental and medical physics, invited keynote at WMLQ2026, Warsaw, Poland
+- 2026-09-02: (Plenary talk) De novo experiment design and experiment design optimisation in the era of foundation models, talk at Sixth MODE Workshop, Kolumbari, Crete, Greece
+- 2026-08-29: (Invited lectures) Machine Learning School at ICNFP 2026, Invited Machine Learning School at ICNFP2026, Kolumbari, Crete, Greece
+- 2026-08-26: (Invited talk) De novo experiment design and experiment design optimisation in the era of foundation models, invited talk at ICNFP2026, Kolumbari, Crete, Greece
+- 2026-07-14: (Invited lecture) Introduction to Machine Learning, lecture at Summer School on ML and AI Methods at LHC, IBA University, Karachi, Pakistan (online lecture)
+- 2026-06-19: (Invited outreach talk) Si no puedes ir tú, envía una máquina inteligente: explorar el cosmo con robots y inteligencia artificial, charla en Cielos Despejados
+- 2026-06-01: (Plenary) The PHINDER EIC Project, talk at III Ictea Research Days, Oviedo, Spain
+- 2026-05-26: (Plenary) Amplification and Readout strategies for scintillators in HEP, PHINDER WG1/6 meeting, Online
+- 2026-04-11: (Invited lectures) Differentiable Programming, invited lecture at 4th COMCHA School, Zaragoza, Spain
+- 2026-03-12to13: (Invited lectures) Lisbon Machine Learning School for HEP: Unsupervised Learning, invited lecture at LIP Lisboa, Portugal
+- 2026-03-12to13: (Invited lectures) Lisbon Machine Learning School for HEP: Transformers, invited lecture at LIP Lisboa, Portugal
+- 2026-03-12to13: (Invited lectures) Lisbon Machine Learning School for HEP: Supervised Learning, invited lecture at LIP Lisboa, Portugal
+- 2026-03-12to13: (Invited lectures) Lisbon Machine Learning School for HEP: Introduction, invited lecture at LIP Lisboa, Portugal
+- 2026-03-11: (Invited lectures) Statistics, invited lecture at 12th Course on Physics at the LHC, LIP Lisboa, Portugal
+- 2026-02-02: (Plenary talk) NeuroMODE and PHINDER at CNID Workshop, talk at 2nd Workshop of the CPAN Network on Instrumentation and Detectors, CIEMAT, Madrid, Spain
 - 2026-01-15: (Plenary talk) **"Discussion: Opportunities in CMS ML"**, 1st CMS Spain meeting, Oviedo, Spain
 - 2026-01-13: (Plenary talk) **"Oviedo DRDCalo Plans: NeuroMODE and PHINDER"**, 1st DRDCaloSpain, Madrid (online), Spain
+
+## International conferences
+
 - 2025-12-15: (Plenary talk) **"Aprendizaje Automático en FPAUO-Exp"**, First Workshop on Machine Learning at ICTEA, UniOvi, Spain
 - 2025-10-26: (Selected Tutorial) **"Think Your Deep Learning Model Works? Think Again!"**, ECAI 2025, Bologna, Italy
 - 2025-10-17: (Invited lecture) **"Quantum Machine Learning"**, lecture at Máster en Ciencia de Datos, Universidad de Cantabria, Santander, Spain
-- 2025-10-05: (Invited outreach talk) **"Si no puedes ir tú, envía una máquina inteligente: explorar el cosmo con robots y inteligencia artificial"**, La Noche Lunática, Oviedo, Spain
 - 2025-09-05: (Invited lectures) **"Machine Learning lecture and tutorial"**, TAE School, Benasque, Spain
 - 2025-07-18: (Invited plenary) **"Machine Learning Optimized Design of Experiments at the frontiers of computation: methods and new perspectives"**, ICNFP2025, Kolumbari, Crete
-- 2025-07-01: (Invited seminar) **"Differentiable Programming at the Frontiers of Computation"**, seminar at CP3, UCLouvain, Louvain-la-Neuve, Belgium
 - 2025-06-23: (Plenary+poster) **"Differentiable Programming at the Frontiers of Computation"**, talk at Newton Institute Workshop on Experiment Design, Cambridge, United Kingdom
-- 2025-06-19: (Plenary) **"Neuromorphic-Computing Based Advances in Calorimetry"**, presentation at 2nd Jornadas del ICTEA, Oviedo, Spain
 - 2025-05-19: (Invited seminar) **"Differentiable Programming at the Frontiers of Computation"**, invited seminar at EPFL, Lausanne, Switzerland
 - 2025-05-14: (Invited seminar): **"From Machine Learning to Differentiable Programming at the Frontiers of Computation"**, invited seminar at Universidad de Santiago de Compostela and IGFAE, Spain
 - 2025-02-25: (Invited lecture) **"Automatic Differentiation"**, lecture at the course "Programming for Scientific Computing" at Lulea Technical University, Sweden
@@ -25,15 +46,9 @@ slug: /talks
 - 2025-02-20: (Invited lectures) **"Differentiable Programming"**, series of lectures within the AI4Physics course at Uppsala Universitet, Sweden
 - 2025-02-20: (Invited seminar) **"Differentiable Programming for the Frontiers of Computation"**, seminar at Uppsala Universitet, Sweden
 - 2024-12-17: (Invited, plenary session) **"Plug the physics into the AI: Digital twins, inductive bias, and the case of enforcing symmetries in neural networks"**, invited talk at NPTwins 2024, Genova, Italy
-- 2024-10-04: (Plenary), **"Differentiable Programming for the Frontiers of Computation"**, talk at the 2nd Computation Challenges (COMCHA) Workshop, A Coruña, Spain
 - 2024-10-18: (Invited lecture) **"Quantum Machine Learning"**, lecture at Máster en Ciencia de Datos, Universidad de Cantabria, Santander, Spain
 - 2024-09-04: (Plenary) Equivariant Neural Networks for Robust CP Observables, talk at ICNFP2024, Kolumbari, Crete
 - 2024-07-20: (Invited, parallel session) **"AI-Assisted Design of Experiments at the Frontiers of Computation: Methods and New Perspectives"**, ICHEP 2024, Prague, Czech Republic
-- 2024-07-05: (Invited seminar, interview for full Professorship, W3, at KIT): **"AI-assisted design of experiments at the frontiers of computation: methods and new perspectives"**, Institute of Data Processing and Electronics, KIT (Karlsruhe Istitute of Technology), Germany
-- 2024-05-21: (Invited seminar): **"AI-assisted design of experiments at the frontiers of computation: methods and new perspectives"**, ETH Zürich, Switzerland
-
-## International conferences
-
 - 2024-11-08: (Invited, parallel session) **"Artificial Intelligence at CERN"**, seminar at USERN Congress 2024, Plovdiv, Bulgaria (remotely)
 - 2024-08-25: (Invited course) **"Machine Learning Course"**, Course within ICNFP2024, Kolumbari, Crete
 - 2024-06-13: (Invited lecture): **"Statistics"**, 15th INFN International Neutrino Summer School, Bologna, Italy (remotely)
@@ -77,6 +92,9 @@ slug: /talks
 
 ## Seminars
 
+- 2025-07-01: (Invited seminar) **"Differentiable Programming at the Frontiers of Computation"**, seminar at CP3, UCLouvain, Louvain-la-Neuve, Belgium
+- 2024-07-05: (Invited seminar, interview for full Professorship, W3, at KIT): **"AI-assisted design of experiments at the frontiers of computation: methods and new perspectives"**, Institute of Data Processing and Electronics, KIT (Karlsruhe Istitute of Technology), Germany
+- 2024-05-21: (Invited seminar): **"AI-assisted design of experiments at the frontiers of computation: methods and new perspectives"**, ETH Zürich, Switzerland
 - 2024-03-21: (Invited seminar): **"AI-assisted design of experiments at the frontiers of computation: methods and new perspectives"**, seminar at LIP Lisboa, Portugal
 - 03/07/2023: (Invited seminar) **"Optimizing experiment design with machine learning"**, IGFAE, Santiago de Compostela, Spain;
 - 20/04/2023: (Invited seminar) **"Neuronas: del pez eléctrico al diseño de los experimentos del futuro con inteligencia artificial"**, Seminarios ICTEA (welcome as new senior researcher), Universidad de Oviedo, Spain;
@@ -96,6 +114,8 @@ slug: /talks
 
 ## National conferences and other international workshops
 
+- 2025-06-19: (Plenary) **"Neuromorphic-Computing Based Advances in Calorimetry"**, presentation at 2nd Jornadas del ICTEA, Oviedo, Spain
+- 2024-10-04: (Plenary), **"Differentiable Programming for the Frontiers of Computation"**, talk at the 2nd Computation Challenges (COMCHA) Workshop, A Coruña, Spain
 - 2024-05-07: (Plenary) **"Artificial Intelligence at CERN"**, Jornadas de ICTEA, Oviedo, Spain
 - 10/05/2023: **"Machine Learning for Inference"**, 7th Red LHC, Madrid, Spain;
 - 05/05/2022: **"Expression of Interest 3: Machine-Learning Optimized Design of Experiments"**, 2nd Joint ECFA-NuPECC-APPEC Symposium, Madrid, Spain;
@@ -112,6 +132,7 @@ slug: /talks
 
 ## Outreach
 
+- 2025-10-05: (Invited outreach talk) **"Si no puedes ir tú, envía una máquina inteligente: explorar el cosmo con robots y inteligencia artificial"**, La Noche Lunática, Oviedo, Spain
 - 22/05/2023: **"Neuronas: del pez eléctrico al diseño de los experimentos del futuro con inteligencia artificial"**, Pint of Science 2023, Rocket Club, Oviedo, Asturias, Spain;
 - 15/05/2018: **"Si me sale positivo el test, tengo cáncer? Usar simples conceptos estadísticos para entender el mundo en que vivimos" Pint of Science 2018, Chelsea Café Lounge, Oviedo, Asturias, Spain;
 - 04/05/2018: **"Cómo aprende una red neuronal? Viaje en el mundo de las máquinas que aprenden"**, Cíclo Mono de Ciencias 2018, Oviedo, Asturias, Spain;

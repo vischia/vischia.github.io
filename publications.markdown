@@ -3,22 +3,30 @@ layout: default
 slug: /publications
 ---
 
-74960 citations, h-index 118 (updated 02/2025) according to the [SCOPUS page about me](https://www.scopus.com/authid/detail.uri?authorId=54973936800). 
+88356 citations, h-index 127 (updated 10/2026) according to the [SCOPUS page about me](https://www.scopus.com/authid/detail.uri?authorId=54973936800). 
 Full list of publications available via my [ORCID ID](https://orcid.org/0000-0002-7088-8557). You can also check my [Google Scholar page](https://scholar.google.com/citations?user=cph_-LwAAAAJ).
 
 # Latest preprints
 
-- X. T. Nguyen et al. (P.V.), "Differentiable Surrogate for Detector Simulation and Design with Diffusion Models", submitted to Machine Learning: Science and Technology, ([2601.07859](https://doi.org/10.48550/arXiv.2601.07859))
-- C. A. Argüelles et al. (P.V.), "TAMBO: A Deep-Valley Neutrino Observatory", submitted to Nature Astronomy, ([2507.08070](https://doi.org/10.48550/arXiv.2507.08070))
+- A. De Vita, Abhishek, T. Dorigo, P. Vischia, "Exploring the Limits of High-Energy Proton-Pion Separation in Granular Calorimeters", submitted to EPJC [2608.19064](https://arxiv.org/abs/2608.19064)
+- D. Lanchares, L. Mornas, L. Toffolatti, P. Vischia, "Co-design of ground-based gravitational wave detector networks", submitted to Classical and Quantum Gravity, [2607.27254](https://arxiv.org/abs/2607.27254)
+- T. Dorigo, P. Vischia, et al., "On the Codesign of Scientific Experiments and Industrial Systems", submitted to JHEP, [2603.26613](https://arxiv.org/abs/2603.26613)
 
 
 # Latest publication highlights
 
-- S. Caron et al. (P.V.), "Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics: Insights from JENA and EuCAIF", Mach. Learn.: Sci. Technol. 7 013002, [10.1088/2632-2153/ae35cd](https://doi.org/10.1088/2632-2153/ae35cd))
+
+- J. Klimesch et al. (P.V.), "Designing Physics Experiments with Artificial Intelligence", Nature 657, 47-58 (2026), [10.1038/s41586-026-10898-6](https://doi.org/10.1038/s41586-026-10898-6), [pdf](./assets/files/Designing-physics-experiments-with-artificial-intelligence.pdf)   
+- C. A. Argüelles et al. (P.V.), "TAMBO: A Deep-Valley Neutrino Observatory", Nature Astronomy 10, 947/951 (2026), [10.1038/s41550-026-02916-4](https://doi.org/10.1038/s41550-026-02916-4), [2507.08070](https://doi.org/10.48550/arXiv.2507.08070))
+- D. Lanchares et al. (P.V.), "Assessment of normalizing flows for parameter estimation on time-frequency representations of gravitational-wave data", Phys. Rev. D 114 (2026) 043019, [10.1103/pz2n-b4m5](https://doi.org/10.1103/pz2n-b4m5), [2505.08089](https://arxiv.org/abs/2505.08089)
+- X. T. Nguyen et al. (P.V.), "Differentiable Surrogate for Detector Simulation and Design with Diffusion Models", Mach. Learn.: Sci. Technol. 7 025061 (2026), [10.1088/2632-2153/ae5c56](https://doi.org/10.1088/2632-2153/ae5c56), [2601.07859](https://doi.org/10.48550/arXiv.2601.07859)
+- M. de la Puente Santos, Z. Zaher, M. Lagrange, A. Giammanco, P. Vischia, "Bias Reduction Using Expectation Maximization in the Optimization of an AI-Assisted Muon Tomography System", PoS (MODE2025) 014, [10.22323/1.491.0014](https://doi.org/10.22323/1.491.0014), open access
+- S. Caron et al. (P.V.), "Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics: Insights from JENA and EuCAIF", Mach. Learn.: Sci. Technol. 7 013002 (2026), [10.1088/2632-2153/ae35cd](https://doi.org/10.1088/2632-2153/ae35cd))
 - K. G. Barman et al. (P.V.), "Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models",  Eur. Phys. J. C 85, 1066 (2025), [10.1140/epjc/s10052-025-14707-8](https://doi.org/10.1140/epjc/s10052-025-14707-8)
 - Z. Zaher et al. (P.V.), "Optimization of a cosmic muon tomography scanner for cargo border control inspection", J. Appl. Phys. 138, 194903 (2025), ([10.1063/5.0287758](https://doi.org/10.1063/5.0287758))
 - M. Pereira Martínez, X. Cid Vidal, Pietro Vischia, "Automatic Optimization of a Parallel-Plate Avalanche Counter with Optical Readout", Particles 2025, 8(1), 26 ([10.3390/particles8010026](https://doi.org/10.3390/particles8010026), [2503.02538](https://arxiv.org/abs/2503.02538))
 -M. Aehle et al. (P.V.), "Progress in End-to-End Optimization of Detectors for Fundamental Physics with Differentiable Programming ", Reviews in Physics 13 (2025), 100120 ([10.1016/j.revip.2025.100120](https://doi.org/10.1016/j.revip.2025.100120), [2310.05673](https://arxiv.org/abs/2310.05673))
+- Z. Zaher et al. (P.V.), "Optimisation of Muon Tomography Scanners for Border Control Using TomOpt", Particles 2025, 8(2) 53, [10.3390/particles8020053](https://doi.org/10.3390/particles8020053), open access
 - E. Lupi et al. (P.V.), "Neuromorphic Readout for Hadron Calorimeters", Particles 2025, 8(2) 52 ([10.3390/particles8020052](https://doi.org/10.3390/particles8020052), [2502.12693](https://doi.org/10.48550/arXiv.2502.12693))
 - A. De Vita et al. (P.V.), "Hadron Identification Prospects With Granular Calorimeters", Particles 2025, 8(2) 58 ([10.3390/particles8020058](https://doi.org/10.3390/particles8020058) [2502.10817](https://doi.org/10.48550/arXiv.2502.10817))
 - K. Schmidt et al. (P.V.), "End-to-End Detector Optimization with Diffusion models: A Case Study in Sampling Calorimeters", Particles 2025, 8(2) 47 ([10.3390/particles8020047](https://doi.org/10.3390/particles8020047), [2502.02152](https://doi.org/10.48550/arXiv.2502.02152))

@@ -7,7 +7,7 @@ slug: /teaching
 
 ## Next academic year
 
-- **2026/2027**
+- **2027/2028**
   - Depending on enrollment in ATDTF one of these two:
     - Course on Applications and Treatment of Data in Technology and Physics, "ATDF", Politechnical School of Engineering of the Universidad de Oviedo (in Spanish) <!--(44h)-->
     - Course on Numerical Methods and their Application to Physics, "MNAF" <!--(44h)-->, Universidad de Oviedo (in Spanish)
@@ -16,14 +16,23 @@ slug: /teaching
 
 ## Current academic year
 
-- **2025/2026**
+- **2026/2027**
+  - Teacher (Differentiable Programming and Neuromorphic Computing lectures and tutorials) and coorganizer, First MLQC4FC Machine Learning School, Belgrade, Serbia <!--(4h)-->
   - Two guest lectures on Statistical Methods for Data Analysis and Machine Learning, within the IDPASC Course on Physics at the LHC, LIP Lisboa (in English) <!--(4h)--> 
+  - Main teacher and coorganiser of Lisbon Machine Learning For Physics School, LIP Lisboa (in English) <!-- (15h)-->
   - Guest lecture on Quantum Machine Learning, Master in Data Science, Universidad de Cantabria (in Spanish) <!--(2h)-->
   - Course on Applications and Treatment of Data in Technology and Physics, "ATDF", Politechnical School of Engineering of the Universidad de Oviedo (in Spanish) <!--(44h)-->
   - Course on Data Analysis in Modern Physics, "ADFM", Universidad de Oviedo (in Spanish) <!--(45h)-->
   - Course on Particle Physics in the Energy Frontier (classes on event generators), Universidad de Oviedo (in Spanish) <!--(11h)-->
 
 ## Past academic years
+
+- **2025/2026**
+  - Two guest lectures on Statistical Methods for Data Analysis and Machine Learning, within the IDPASC Course on Physics at the LHC, LIP Lisboa (in English) <!--(4h)--> 
+  - Guest lecture on Quantum Machine Learning, Master in Data Science, Universidad de Cantabria (in Spanish) <!--(2h)-->
+  - Course on Applications and Treatment of Data in Technology and Physics, "ATDF", Politechnical School of Engineering of the Universidad de Oviedo (in Spanish) <!--(44h)-->
+  - Course on Data Analysis in Modern Physics, "ADFM", Universidad de Oviedo (in Spanish) <!--(45h)-->
+  - Course on Particle Physics in the Energy Frontier (classes on event generators), Universidad de Oviedo (in Spanish) <!--(11h)-->
 
 - **2024/2025**
   - Tutorial "Think Your Deep Learning Model Works? Think Again!", ECAI 2025, Bologna, Italy <!--1.5h-->
